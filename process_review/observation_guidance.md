@@ -22,7 +22,7 @@ When observing your pair, keep in mind the following indicators of good process.
 - Reads error messages before taking action
 - Follows a debugging process e.g. tightens the loop and gets visibility
 - Perseveres to solve the issue, even if they are not immediately aware of the cause
-elated to the error they are seeing, and can quickly identify useful resources
+related to the error they are seeing, and can quickly identify useful resources
 - Has a range to debugging approaches they can deploy to resolve an issue
 - Strives to build a mental model of the code they are working on e.g. diagramming or explaining what the code does in plain english
 
