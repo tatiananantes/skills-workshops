@@ -52,7 +52,7 @@ I would like a book to have a name and an author
 ```
 As a librarian
 So that the public can read my books
-I would like be able to loan and return a book
+I would like be able to loan and return a book (making it unavailable/available for others to borrow)
 ```
 ```
 As a librarian
