@@ -2,7 +2,7 @@
 
 Given a number in pounds and pence, work out the most efficient way of breaking it down into notes and coins, e.g. 11.55 becomes ["£10", "£1", "50p", "5p"]
 
-## Example Output
+## Acceptance Criteria
 
 ```
 change_generator.convert(7.42)
