@@ -22,8 +22,8 @@ And then you switch - you’ll record your screen and TDD an exercise for 30 min
 
 Here are the possible programs to build. Complete them in the following order:
 
-1. [Middle letter](./exercises/middle_letter)
 1. [Leap Years](./exercises/leap_years)
+1. [Middle letter](./exercises/middle_letter)
 1. [Ten minute walk](./exercises/10_minute_walk)
 1. [Scrabble solver](./exercises/scrabble_solver)
 1. [Checkout](./exercises/checkout)
