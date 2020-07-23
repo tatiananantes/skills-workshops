@@ -75,3 +75,8 @@ Don't forget to model what happens in the different parts of the server, and the
 
 A user clicks the `PSM on` button.
 
+
+## Example Diagrams
+    :warning: Don't look until you've completed the exercise!
+    You can find some example diagrams for this [here](../examples).
+
