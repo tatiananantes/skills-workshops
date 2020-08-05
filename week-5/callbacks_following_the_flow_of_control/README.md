@@ -79,11 +79,11 @@ document.addEventListener('click', function() {
 
 ## Questions
 
-Follow the process for understanding the flow of control that we used in the demo.
+Follow the process for understanding the flow of control that we used in the demo. Some of the examples below also have additional questions to answer with your pair partner(s).
 
 ### Question 1
 
-`console.log` a number in each part of the code which represents your guess as to what order the code will be executed in.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, read and experiment with the code to figure out why.  Correct the `console.log`s.
+1. `console.log` a number in each part of the code which represents your guess as to what order the code will be executed in.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, read and experiment with the code to figure out why.  Correct the `console.log`s.
 
 ```js
 $(document).click(function(clickEvent) {
@@ -94,7 +94,7 @@ $(document).click(function(clickEvent) {
 ### Question 2
 
 1. `console.log` a number in each part of the code which represents your guess as to what order the code will be executed in.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, follow the flow of control to figure out why.  Correct the `console.log`s.
-2. Explain what is happening in the code to your pair partner(s).
+2. Explain what is happening in the code to your pair partner(s). What is the input parameter into the callback and where does it come from?
 
 ```js
 $.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
@@ -138,10 +138,11 @@ setTimeout(function hiThere(){
 
 ### Plenary (10 mins)
 
-We'll come back together for a short plenary to discuss our understanding of following the flow of control.
+We'll come back together for a short plenary to discuss our understanding of following the flow of control and callbacks.
 
 
 ## Resources
 
 * [JavaScript event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* [Callbacks explained with examples and links to other resources](https://www.sandersdenardi.com/understanding-javascript-callbacks/)
 * [Callbacks tutorial](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
