@@ -55,7 +55,7 @@ document.addEventListener('click', function() {
 });
 ```
 
-### Work through the questions (30 mins)
+### Work through the questions (40 mins)
 
 * Pair up.
 
