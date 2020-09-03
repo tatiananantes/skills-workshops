@@ -28,4 +28,4 @@ Option 2:
 
 * Do a diagram of option 1.
 
-* See if you can change the code to make `comparison-with-non-jquery.html` behave and display what `index.html does.
+* See if you can change the code to make `comparison-with-non-jquery.html` behave and display what `index.html does`.
