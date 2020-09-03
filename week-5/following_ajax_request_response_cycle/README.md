@@ -12,10 +12,20 @@ At a high level, this week is about building the skills that let you learn a new
 
 ### Following the flow of control
 
-* Look at the code in `index.html`.
+* Look at the code in `index.html` and google anything you don't understand or recognise.
+
+* Once you feel you understand what is happening in `index.html`, open `comparison-with-non-jquery.html` and google anything you don't understand or recognise. 
+
+Option 1:
 
 * We're going to act out the request/response cycle for this code.
 
 * Each part (browser, Heroku server etc.) will be played by a person.
 
 * We'll try and build a detailed picture of the order things happen in, and the information that is sent back and forth.
+
+Option 2: 
+
+* Do a diagram of option 1.
+
+* See if you can change the code to make `comparison-with-non-jquery.html` behave and display what `index.html does.
