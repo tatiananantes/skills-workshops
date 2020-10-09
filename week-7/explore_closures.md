@@ -42,9 +42,9 @@ You'll see that the rate is *enclosed* in the closure scope.
 
 ```js
 function timer() {
-  var startTime = Date.now()
-	function read() {
-		return Date.now() - startTime;
+ 	var startTime = Date.now()
+  	function read() {
+  		return Date.now() - startTime;
 	}
 	return read;
 }
