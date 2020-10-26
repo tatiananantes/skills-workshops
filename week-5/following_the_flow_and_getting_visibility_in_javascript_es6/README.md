@@ -98,11 +98,11 @@ A debugger is a program that runs your program and lets you step through your pr
 Add `debugger;` to a line in your program that you **know** runs e.g.:
 
 ```javascript
-function sayHi() {
-  var x = "hi";
+const sayHi = () => {
+  let greeting = "hi";
   debugger;
-  x = "howdy";
-  console.log(x);
+  greeting = "howdy";
+  console.log(greeting);
 };
 
 sayHi();
