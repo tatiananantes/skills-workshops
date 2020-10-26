@@ -17,7 +17,7 @@ At a high level, this week is about building the skills that let you learn a new
 Imagine you want to follow the flow of control in this code.  That is, you want to understand what parts run and in what order they run.
 
 ```js
-document.addEventListener('click', function() {
+document.addEventListener('click', () => {
   console.log("click!");
 });
 
@@ -28,7 +28,7 @@ document.addEventListener('click', function() {
 ```js
 console.log(1);
 
-document.addEventListener('click', function() {
+document.addEventListener('click', () => {
   console.log(2);
   console.log("click!");
   console.log(3);
@@ -50,7 +50,7 @@ A developer constantly analyses the flow of control of their code.  Keep trying 
 I'll follow the flow of control in this code:
 
 ```js
-document.addEventListener('click', function() {
+document.addEventListener('click', () => {
   console.log("click!");
 });
 ```
@@ -86,7 +86,7 @@ Follow the process for understanding the flow of control that we used in the dem
 1. `console.log` a number in each part of the code which represents your guess as to what order the code will be executed in.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, read and experiment with the code to figure out why.  Correct the `console.log`s.
 
 ```js
-$(document).click(function(clickEvent) {
+$(document).click((clickEvent) => {
   console.log("The click event:", clickEvent);
 });
 ```
@@ -97,7 +97,7 @@ $(document).click(function(clickEvent) {
 2. Explain what is happening in the code to your pair partner(s). What is the input parameter into the callback and where does it come from?
 
 ```js
-$.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
+$.get("https://async-workshops-api.herokuapp.com/people", (peopleResponse) => {
   console.log("People response:", peopleResponse);
 });
 ```
@@ -109,7 +109,7 @@ $.get("https://async-workshops-api.herokuapp.com/people", function(peopleRespons
 2. What value does `getReturnValue` have? What value does `peopleResponse` have? Why are they different?
 
 ```js
-var getReturnValue = $.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
+let getReturnValue = $.get("https://async-workshops-api.herokuapp.com/people", (peopleResponse) => {
   return peopleResponse;
 });
 ```
@@ -120,10 +120,8 @@ var getReturnValue = $.get("https://async-workshops-api.herokuapp.com/people", f
 2. Where do the values for `person` come from?
 
 ```js
-$.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
-  peopleResponse.forEach(function(person) {
-    console.log(person.name);
-  });
+$.get("https://async-workshops-api.herokuapp.com/people", (peopleResponse) => {
+  peopleResponse.forEach((person) => console.log(person.name));
 });
 ```
 
@@ -131,7 +129,7 @@ $.get("https://async-workshops-api.herokuapp.com/people", function(peopleRespons
 `console.log` a number in each part of the code which represents your guess as to what order the code will be executed in.  Run the code.  The numbers should be logged in order: 1, 2, 3, 4... If they aren't, follow the flow of control to figure out why.  Correct the `console.log`s.
 
 ```js
-setTimeout(function hiThere(){
+setTimeout(() => {
   console.log("Hi there!");
 }, 0)
 ```
