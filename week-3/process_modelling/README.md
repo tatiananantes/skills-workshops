@@ -79,7 +79,7 @@ A user visits `https://makers-cats.herokuapp.com/` and they are shown this HTML:
 
 A user tries to visit `https://makers-cats.herokuapp.com/`, but mistypes the url as `https://makers-rats.herokuapp.com/` in their browser.
 
-When they don't see the page they expect and fix their typo to the correct home page URL, they are shown this HTML:
+At first they don't see the page they expect. When they fix their typo to the correct home page URL, they are shown this HTML:
 
 ```
 <!DOCTYPE html>
