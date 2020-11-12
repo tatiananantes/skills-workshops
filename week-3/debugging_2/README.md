@@ -16,7 +16,7 @@ In this program, there are many bugs. You have three objectives:
 - You need to get all the tests passing.
 - You need to run the app and make sure it works.
 
-Last week, you practiced this debugging method:
+Previously, you practiced this debugging method:
 
 - Tighten the loop (find the _exact line_ the bug is coming from)
 - Get visibility (use `p` to inspect everything to help you home in on the exact line)
