@@ -66,7 +66,7 @@ I want each student to give a link to the URL of a picture of them
 ```
 As a coach
 So I can mark certain students
-I want to tag a student with many named tags
+I want to tag a student with many named tags (like "happy" or "ok")
 ```
 
 ```
