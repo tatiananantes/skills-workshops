@@ -60,7 +60,7 @@ I want to see the start date and demo day date of a cohort
 ```
 As a coach
 So I can learn students' names
-I want each student to provide a link to the URL of a picture of them
+I want each student to give a link to the URL of a picture of them
 ```
 
 ```
