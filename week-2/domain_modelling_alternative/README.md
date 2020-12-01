@@ -129,7 +129,7 @@ end
 
 ### Follow on
 Some activities that may help you practise this skill could be to:
-- Have a go at writing the code and manually testing (you may find the starter code below helpful)
+- Have a go at writing the code and manually testing the library/book example (you may find the starter code below helpful)
 - Have a go at writing tests in rspec. If you want to focus on TDD, you can delete the code and test drive the program
 - Have a go at isolating your tests between book and library
 
