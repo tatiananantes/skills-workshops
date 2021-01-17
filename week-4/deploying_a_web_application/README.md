@@ -87,3 +87,13 @@ We'll regroup to discuss what you've done, observed and been stuck on.  If there
 1. [Deploying ruby apps on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
 2. [Continuous integration](https://martinfowler.com/articles/continuousIntegration.html)
 3. The engineering team you join will probably use a tool like [Jenkins](https://www.jenkins.io/) (but it will be configured to run and deploy automatically ⚡️).
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/deploying_a_web_application/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/deploying_a_web_application/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/deploying_a_web_application/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/deploying_a_web_application/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/deploying_a_web_application/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

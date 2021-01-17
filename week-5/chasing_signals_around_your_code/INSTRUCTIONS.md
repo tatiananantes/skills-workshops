@@ -8,7 +8,7 @@ This workshop introduces you to more advanced computational thinking. Before thi
 The high-level goal of this workshop is:
 
 - Some advanced 'following the flow', e.g. understanding how:
-  - a browser generates an AJAX request, 
+  - a browser generates an AJAX request,
   - passes it to a server as an HTTP request,
   - the server generates an HTTP response, and
   - the browser handles the HTTP response via JavaScript.
@@ -75,3 +75,13 @@ Students are challenged to come up with some way to demonstrate that they have i
 ## Plenary
 
 Pick three groups' demonstrations to show and discuss.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/chasing_signals_around_your_code/INSTRUCTIONS.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/chasing_signals_around_your_code/INSTRUCTIONS.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/chasing_signals_around_your_code/INSTRUCTIONS.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/chasing_signals_around_your_code/INSTRUCTIONS.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/chasing_signals_around_your_code/INSTRUCTIONS.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

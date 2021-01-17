@@ -206,3 +206,13 @@ I want to get a list of all the names of the sheep in the pen
 
 - More examples of the constructor and prototype pattern in the [Count project repo](https://github.com/maryrosecook/count)
 - [JavaScript constructors, prototypes and the new keyword](https://blog.pivotal.io/labs/labs/javascript-constructors-prototypes-and-the-new-keyword) (Pivotal blog)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

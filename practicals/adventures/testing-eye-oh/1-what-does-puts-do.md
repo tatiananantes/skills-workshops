@@ -121,3 +121,13 @@ If we can understand more about how `#puts` works, then we can find a way to cap
  - [Rubyguides - difference in print, puts, p](https://www.rubyguides.com/2018/10/puts-vs-print/)
 
 [Back to project map](./README.md#project-map)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/testing-eye-oh/1-what-does-puts-do.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/testing-eye-oh/1-what-does-puts-do.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/testing-eye-oh/1-what-does-puts-do.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/testing-eye-oh/1-what-does-puts-do.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/testing-eye-oh/1-what-does-puts-do.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

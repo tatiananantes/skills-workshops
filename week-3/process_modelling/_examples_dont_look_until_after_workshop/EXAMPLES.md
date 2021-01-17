@@ -51,3 +51,13 @@ sequenceDiagram
   Server->>-Browser: 200 OK, HTML
   Browser->>-User: see thanks page
 ```
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

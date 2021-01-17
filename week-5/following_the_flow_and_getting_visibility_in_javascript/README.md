@@ -129,3 +129,13 @@ We'll come back together for a short plenary to discuss learning new techniques.
 
 * [Debugging :pill:](https://github.com/makersacademy/course/blob/master/pills/debugging.md)
 * [The ready position](http://sjmog.github.io/posts/491_learning_to_learn_1/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

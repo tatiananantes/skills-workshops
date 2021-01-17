@@ -90,3 +90,13 @@ count_sheep(sheep_names)
 6. Annotate each expression that you circles with the value that expression returns.
 
 7. Now do steps 4 to 7 with the other exercise Ruby files in the `lib` folder.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=ruby-fundamentals/tracing-ruby-expression-return-values/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=ruby-fundamentals/tracing-ruby-expression-return-values/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=ruby-fundamentals/tracing-ruby-expression-return-values/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=ruby-fundamentals/tracing-ruby-expression-return-values/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=ruby-fundamentals/tracing-ruby-expression-return-values/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

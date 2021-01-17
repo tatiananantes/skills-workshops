@@ -43,11 +43,11 @@ sequenceDiagram
     Browser->>-User: see to list
  ```
  ![add item sequence diagram](add_item.png)
- 
+
  ## By category
- 
+
  Mermaid code:
- 
+
 ``` sequenceDiagram
    User->>+Browser: clicks `View to do list by category`
    Browser->>+Controller: GET /bycategory?category=Finance
@@ -57,7 +57,17 @@ sequenceDiagram
    View->>-Controller: HTML
    Controller->>-Browser: 200 OK, body HTML
    Browser->>-User: see to list
-  
+
    ```
-   
+
 ![by category](by_category.png)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling_mvc/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling_mvc/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling_mvc/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling_mvc/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-3/process_modelling_mvc/_examples_dont_look_until_after_workshop/EXAMPLES.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

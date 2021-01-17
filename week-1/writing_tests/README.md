@@ -127,3 +127,13 @@ To help, ask yourself the following questions:
 At this stage, you have a clear idea of the tests you would need to write in order to cover the functionality in our Library class - now lets actually go ahead and write them.
 
 If you haven't done so already, clone this `skills-workshops` repo then navigate to the folder containing the files for this session. Run `bundle`, then open the project in your text editor. You will find the code for the library class as well as the skeleton of an RSpec test suite. Based on your thoughts from exercises one and two try to write these tests and get them to pass. You can run the tests by using the `rspec` command from your terminal.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-1/writing_tests/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-1/writing_tests/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-1/writing_tests/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-1/writing_tests/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-1/writing_tests/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -194,3 +194,13 @@ Can you list the rules that govern the value of `this`?
 
 * [Understand JavaScript's this with clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 * More examples of the `this` keyword in JavaScript in the [Count project repo](https://github.com/maryrosecook/count)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/getting_visibility_to_understand_the_this_keyword/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/getting_visibility_to_understand_the_this_keyword/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/getting_visibility_to_understand_the_this_keyword/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/getting_visibility_to_understand_the_this_keyword/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/getting_visibility_to_understand_the_this_keyword/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -67,3 +67,13 @@ thing.setName("Isla");
 ```
 
 When the prototypal lookup happens, it first checks `thing` itself and immediately finds a `setName()` function.  This is the one it calls, so it never sees the one on `Thing.prototype`.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/exemplar_dont_read_until_after_workshop/questions.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/exemplar_dont_read_until_after_workshop/questions.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/exemplar_dont_read_until_after_workshop/questions.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/exemplar_dont_read_until_after_workshop/questions.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/encapsulation_with_constructor_and_prototype_pattern/exemplar_dont_read_until_after_workshop/questions.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -11,3 +11,13 @@ Domain modelling is a great way to get an overview of your application, and also
 * Consider the names of your objects, their responsibilities, and the flow of data between them
 * Present your domain model to your cohort, allowing time for questions (Maximum 5 minute presentation, followed by 5 minutes of questions)
 * Watch the other presentations and take them as an opportunity to learn from each other - find out why they made different design decisions, and also help them with any constructive criticism you may have (remember your XP values!)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-7/domain-modelling/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-7/domain-modelling/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-7/domain-modelling/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-7/domain-modelling/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-7/domain-modelling/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

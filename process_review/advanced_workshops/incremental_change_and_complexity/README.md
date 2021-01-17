@@ -114,3 +114,13 @@ Help them to find a next step which is a small increment, but would generate a t
 Continue the TDD process with the group, talking about the decision points and code each next test will drive, for as long as you can.
 
 Take opportunities to demonstrate refactoring, try to extract a pattern only when one emerges.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=process_review/advanced_workshops/incremental_change_and_complexity/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=process_review/advanced_workshops/incremental_change_and_complexity/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=process_review/advanced_workshops/incremental_change_and_complexity/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=process_review/advanced_workshops/incremental_change_and_complexity/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=process_review/advanced_workshops/incremental_change_and_complexity/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

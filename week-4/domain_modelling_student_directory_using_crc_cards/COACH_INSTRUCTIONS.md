@@ -117,3 +117,13 @@ Collaboratively review the suggested solution, and compare it to the work they d
 - Students do not need to store the average rating: they can calculate that in the model layer, given all the ratings they ever made.
 - When Model A `has_many` of Model B, _Model A's foreign key appears in Model B's table_.
 - Join tables can be tricky. Trace the information flow in the comment above with a finger to make it clearer.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -67,3 +67,13 @@ At the end, we'll have a retro.
 - [How to succeed tech tests](https://github.com/makersacademy/jobhunters/blob/master/tech_tests_how_to_succeed.md) *MAKE SURE TO USE THE CHECKLIST AT THE BOTTOM BEFORE SUBMITTING
   ANY TECH TEST* - those 10 points will take you a long way.
 - [TED talk on Power Poses](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) if you lack confidence
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=tech_interview_practice.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=tech_interview_practice.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=tech_interview_practice.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=tech_interview_practice.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=tech_interview_practice.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

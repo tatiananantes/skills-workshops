@@ -21,3 +21,13 @@ Secret.new('HELLO, 28 $$$!').encrypt(7) #=> "4239464649850896030864646461"
 Secret.new('       ').encrypt(20) #=> "21212121212121"
 Secret.new("'\"' a double quote can be tricky, as can be \\ backslashes").encrypt(43) #=> "181918444544485965465649446165596449444745584446494464625347556922444563444745584446494420444645475563564563524963"
 ```
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/cipher-world/part3.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/cipher-world/part3.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/cipher-world/part3.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/cipher-world/part3.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/adventures/cipher-world/part3.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

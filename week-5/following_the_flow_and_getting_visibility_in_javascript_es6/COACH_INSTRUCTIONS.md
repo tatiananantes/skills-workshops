@@ -21,3 +21,13 @@ See the [student readme](README.md) for instructions.
 * Ask about ways students keep track of new processes and techniques until they have a chance to try them about.  (Maybe talk about the [Ready Position](http://sjmog.github.io/posts/491_learning_to_learn_1/).)
 
 * Ask about how the students learnt debugging techniques they already knew.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript_es6/COACH_INSTRUCTIONS.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript_es6/COACH_INSTRUCTIONS.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript_es6/COACH_INSTRUCTIONS.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript_es6/COACH_INSTRUCTIONS.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/following_the_flow_and_getting_visibility_in_javascript_es6/COACH_INSTRUCTIONS.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

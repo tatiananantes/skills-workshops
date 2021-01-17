@@ -73,3 +73,13 @@ We'll come back together for a short plenary.  We'll discuss the routes we desig
 * [REST :pill:](https://github.com/makersacademy/course/blob/master/pills/rest.md)
 * [Principles of good RESTful API design](https://codeplanet.io/principles-good-restful-api-design/)
 * [Nested routes in Rails](http://stackoverflow.com/questions/18219008/rails-4-nested-resources)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

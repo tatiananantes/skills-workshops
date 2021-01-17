@@ -18,3 +18,13 @@ GET        /bookings             bookings#index
 GET        /bookings/new         bookings#new
 GET        /bookings/:id/edit    bookings#edit
 ```
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/solution-dont-look-until-after-workshop-over/solution.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/solution-dont-look-until-after-workshop-over/solution.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/solution-dont-look-until-after-workshop-over/solution.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/solution-dont-look-until-after-workshop-over/solution.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-8/designing_restful_routes/solution-dont-look-until-after-workshop-over/solution.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

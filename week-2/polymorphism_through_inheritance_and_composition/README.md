@@ -171,3 +171,13 @@ end
 ## Resources
 - [An overview of inheritance and composition in Ruby](https://github.com/pruett/ruby-patterns/blob/master/concepts/inheritance-vs-composition.md)
 - [Prefer composition over inheritance](https://www.sitepoint.com/composition-inheritance/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-2/polymorphism_through_inheritance_and_composition/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-2/polymorphism_through_inheritance_and_composition/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-2/polymorphism_through_inheritance_and_composition/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-2/polymorphism_through_inheritance_and_composition/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-2/polymorphism_through_inheritance_and_composition/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

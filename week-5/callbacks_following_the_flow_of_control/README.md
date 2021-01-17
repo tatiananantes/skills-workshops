@@ -144,3 +144,13 @@ We'll come back together for a short plenary to discuss our understanding of fol
 * [JavaScript event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * [Callbacks explained with examples and links to other resources](https://www.sandersdenardi.com/understanding-javascript-callbacks/)
 * [Callbacks tutorial](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/callbacks_following_the_flow_of_control/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/callbacks_following_the_flow_of_control/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/callbacks_following_the_flow_of_control/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/callbacks_following_the_flow_of_control/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=week-5/callbacks_following_the_flow_of_control/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
