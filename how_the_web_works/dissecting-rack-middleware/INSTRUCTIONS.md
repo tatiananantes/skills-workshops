@@ -1,6 +1,6 @@
 # Skills Workshop: Building a Rack App
 
-This workshop is not essential to successfully completing week 3. However it is really useful for some students to learn about some of the inner workings of sinatra and rack. This workshop can work well as an optional workshop, either during a lunchtime or an early morning session.
+This workshop is not essential to successfully achieving this week's goals. However it is really useful for some students to learn about some of the inner workings of sinatra and rack. This workshop can work well as an optional workshop, either during a lunchtime or an early morning session.
 
 ## Learning Objectives
 
