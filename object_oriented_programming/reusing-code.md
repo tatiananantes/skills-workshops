@@ -1,4 +1,4 @@
-#Reusing code (Week 2)
+#Reusing code
 
 * When is code done? When do you ship? (whiteboard) - this should be revision for them
   - When it works
