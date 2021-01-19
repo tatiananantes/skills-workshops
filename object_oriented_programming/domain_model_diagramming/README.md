@@ -48,7 +48,7 @@ Domain models can be expressed in many forms.
 
 * Nouns and verbs using boxes and arrows. (As above.)
 
-* Nouns and verbs in lists. (As you did at the beginning of week 1.)
+* Nouns and verbs in lists.
 
 The Unified Modelling Language (UML) is a widely adopted standard for  creating a variety of diagrams which can be useful in your work as a developer:
 
