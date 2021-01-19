@@ -6,7 +6,7 @@
 
 # Starter (10mins)
 
-The coach will recap week 1's mocking workshop and then demonstrate how to implement RSpec test doubles in the first test in `docking_station_spec.rb` in `/exercise1`
+Your coach will recap the first mocking workshop and then demonstrate how to implement RSpec test doubles in the first test in `docking_station_spec.rb` in `/exercise1`
 
 # Main (45mins)
 
