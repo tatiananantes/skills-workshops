@@ -28,7 +28,7 @@ We'll discuss this as a group and recap the main points during the plenary.
 
 Have a read about pairing styles [here](pairing_styles.md)
 
-## Planning your pairing session
+## Planning your pairing session
 
 Use [this checklist](checklist.md)
 
