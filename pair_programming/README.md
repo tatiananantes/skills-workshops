@@ -15,15 +15,6 @@ By the end of this workshop, all learners will be able to
 
 We'll discuss this as a group and recap the main points during the plenary.
 
-- two heads are better than one / fewer bugs
-- learn from each other / see other ways of working
-- practice handover to new pair
-- practicing for the workplace
-- division of responsibility / specialisation
-- practice explaining the way you think / test your understanding
-- practice interpersonal skills
-- 
-
 ## Pair programming styles
 
 Have a read about pairing styles [here](pairing_styles.md)
@@ -38,11 +29,11 @@ Today you'll practice using the driver navigator style.  Make sure you plan your
 
 ### The practicalities of remote pairing
 
-- [] One person should create the remote repo and invite the other person as collaborator
-- [] Both people should then clone the repo to their machines, as a new local repo
-- [] Decide who is going to drive first
-- [] The driver gets set up with their text editor and shares their screen
-- [] You do some programming together and make regular commits
-- [] When it's time to switch, you make sure everything is commited and push the changes
-- [] The new driver pulls those changes to their machine and gets set up to screen share
-- [] You do some more programming together and make regular commits...
+- [ ] One person should create the remote repo and invite the other person as collaborator
+- [ ] Both people should then clone the repo to their machines, as a new local repo
+- [ ] Decide who is going to drive first
+- [ ] The driver gets set up with their text editor and shares their screen
+- [ ] You do some programming together and make regular commits
+- [ ] When it's time to switch, you make sure everything is commited and push the changes
+- [ ] The new driver pulls those changes to their machine and gets set up to screen share
+- [ ] You do some more programming together and make regular commits...
