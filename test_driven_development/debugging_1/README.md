@@ -16,7 +16,7 @@ In this program, there are three bugs. You have to find them, and fix them. You 
 
 * Clone the skills workshop repo.
 
-* `cd` into the `week-1/debugging_1` directory.
+* `cd` into the `test_driven_development/debugging_1` directory.
 
 * Run `bundle install`.
 
