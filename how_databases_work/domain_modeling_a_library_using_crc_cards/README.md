@@ -58,7 +58,7 @@ I want to see a list of books with title and author
 
 As a librarian
 So I know who can borrow books
-I want to se a list of members names
+I want to see a list of members names
 
 As a librarian
 So I can track where books are
