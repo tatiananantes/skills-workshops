@@ -32,7 +32,7 @@ We have a class, `BankAccount`, with an instance variable, `@balance` , which in
 
 Let's try writing a unit test to cover the `deposit` method. The first step is to determine **what exactly we want to test**. Think about what the method does - given an input (a number) how does the method change the state of our programme? Take a moment to consider this.
 
-It looks like after the method is called, whatever is passed in as an argument should be present in the storage array. This can form the basis of our unit test - our **assertion**.
+It looks like after the method is called, whatever is passed in as an argument should be added to the balance. This can form the basis of our unit test - our **assertion**.
 
 ```ruby
 describe BankAccount do
