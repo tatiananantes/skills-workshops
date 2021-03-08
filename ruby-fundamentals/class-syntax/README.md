@@ -158,9 +158,9 @@ It should:
     * Has 5 methods:
       * `initialize` This is provided for you.
       * `add`. Takes a hash representing a car as a parameter and appends it to the list of cars.
-      * `find_car`. Takes a number plate as a parameter and returns a car with a matching registration plate.
-      * `remove_car`. Takes a number plate as a parameter and deletes the car from the list of cars.
-      * `all_cars_by_make`. Takes a make as a parameter and returns a list of all the cars of that make.
+      * `find`. Takes a number plate as a parameter and returns a car with a matching registration plate.
+      * `remove`. Takes a number plate as a parameter and deletes the car from the list of cars.
+      * `all_of_make`. Takes a make as a parameter and returns a list of all the cars of that make.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
