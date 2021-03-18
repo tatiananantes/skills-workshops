@@ -1,6 +1,12 @@
 ## Extracting classes
 
-1. Print out the code in `/exercise/lib/car.rb`
+**Learning Objectives:**
+ - Know how to annotate code
+ - Spot indicators for similar behaviour in a class
+ - Extract a class to follow the [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
+
+**Exercise:**
+1. Print out the code in `exercise/lib/car.rb`
 
 2. Diagram the current domain
 
@@ -15,7 +21,7 @@
 
 6. Diagram a domain that demonstrates a better design
 
-7. Out of your list choose one at a time and start to move logic out of `/lib`, test-driven.
+7. Out of your list choose one at a time and start to move logic out of `car.rb`, test-driven.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
