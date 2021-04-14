@@ -1,5 +1,5 @@
 console.log('hello!')
 
-$(document).click(function(clickEvent) {
+document.addEventListener('click', (clickEvent) => {
   console.log("The click event:", clickEvent);
 });
