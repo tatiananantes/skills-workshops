@@ -235,6 +235,164 @@ class Greeter
 end
 ```
 
+## Suggested solutions (do not look before finishing the exercise!)
+
+### Exercise 1
+
+```ruby
+class Note
+  # the formatter is injected in the initialize method
+  def initialize(title, body, formatter)
+    @title = title
+    @body = body
+    @formatter = formatter
+  end
+
+  def display
+    @formatter.format(self)
+  end
+
+  attr_reader :title, :body
+end
+
+class NoteFormatter
+  def format(note)
+    "Title: #{note.title}\n#{note.body}"
+  end
+end
+```
+
+```ruby
+# Possible tests
+
+# note_spec.rb
+
+describe Note do
+  let(:title) { 'Groceries' }
+  let(:body) { 'remember to buy milk and eggs' }
+  let(:expected_format) { "Title: #{title}\n#{body}" }
+
+  let(:formatter) { double(:formatter, format: expected_format) }
+  let(:note) { described_class.new(title, body, formatter) }
+
+  describe '#display' do
+    it 'displays correctly' do
+      expect(note.display).to eq(expected_format)
+    end
+  end
+end
+```
+
+### Exercise 2
+
+```ruby
+class Diary
+  def initialize(entry_class = Entry)
+    @entries = []
+    @entry_class = entry_class
+  end
+
+  def add(title, body)
+    @entries << @entry_class.new(title, body)
+  end
+
+  def index
+    titles = @entries.map do |entry|
+      entry.title
+    end
+    titles.join("\n")
+  end
+end
+
+class Entry
+  def initialize(title, body)
+    @title = title
+    @body = body
+  end
+
+  attr_reader :title, :body
+end
+``` 
+
+```ruby
+# Possible tests
+
+# diary_spec.rb
+describe Diary do
+  let(:first_title) { 'A great day' }
+  let(:first_body) { 'It was such a great day at the beach' }
+
+  let(:second_title) { 'A moody day' }
+  let(:second_body) { 'No ice cream left at the shop, not so great today' }
+
+  let(:first_entry_double) { double(:entry, title: first_title, body: first_body)}
+  let(:second_entry_double) { double(:entry, title: second_title, body: second_body)}
+
+  let(:entry_class_double) { double(:entry_class) }
+  let(:diary) { described_class.new(entry_class_double) }
+
+  let(:expected_index) { "A great day\nA moody day" }
+
+  describe '#index' do
+    allow(entry_class_double).to receive(:new).and_return(first_entry_double)
+    diary.add(first_title, first_body)
+    allow(entry_class_double).to receive(:new).and_return(second_entry_double)
+    diary.add(second_title, second_body)
+
+    expect(diary.index).to eq(expected_index)
+  end
+end
+```
+
+### Exercise 3
+
+```ruby
+class EmailClient
+  def message
+    Message.new
+  end
+end
+
+class Message
+  def send(to, body)
+    # Imagine I'm sending an email
+    # we'll return true, assuming everything went ok
+    return true
+  end
+end
+
+class SayHello
+  def initialize(client = EmailClient.new)
+    @client = client
+  end
+
+  def run
+    @client.message.send(
+      "friend@example.com",
+      "HELLO!"
+    )
+  end
+end
+```
+
+```ruby
+describe SayHello do
+  let(:message) { double(:message_double, send: true)}
+  let(:client) { double(:client_double, message: message) }
+  let(:say_hello) { described_class.new(client) }
+
+  it 'calls send on message' do
+    expect(message).to receive(:send).with("friend@example.com", "HELLO!")
+    say_hello.run
+  end
+
+  it 'returns true' do
+    expect(say_hello.run).to eq(true)
+  end
+end
+```
+
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
