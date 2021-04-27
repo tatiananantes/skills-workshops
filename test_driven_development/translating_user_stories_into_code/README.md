@@ -23,7 +23,7 @@ Our user story breaks down into 3 main parts
 - What the feature would enable them to do
 - What the feature should do
 
-To help us understand the code we need to write we only need to consider the third part of the statement.
+To help us plan the code that needs to be written, we only need to consider the third part of the statement.
 
 A working code example might look like:
 ```
