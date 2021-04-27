@@ -12,7 +12,11 @@ One thing we can do is analyse user stories and tease out the key ideas from thi
 
 ### Checking code manually
 Here is a user story
-##### As a bank account user, so that I can save my money, I would like to be able to deposit money into my bank account
+```
+As a bank account user
+So that I can save my money
+I would like to be able to deposit money into my bank account
+```
 
 Our user story breaks down into 3 main parts
 - Who wants the feature
