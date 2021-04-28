@@ -12,14 +12,18 @@ One thing we can do is analyse user stories and tease out the key ideas from thi
 
 ### Checking code manually
 Here is a user story
-##### As a bank account user, so that I can save my money, I would like to be able to deposit money into my bank account
+```
+As a bank account user
+So that I can save my money
+I would like to be able to deposit money into my bank account
+```
 
 Our user story breaks down into 3 main parts
 - Who wants the feature
 - What the feature would enable them to do
 - What the feature should do
 
-To help us understand the code we need to write we only need to consider the third part of the statement.
+To help us plan the code that needs to be written, we only need to consider the third part of the statement.
 
 A working code example might look like:
 ```

@@ -6,7 +6,7 @@
 console.log(1) // program starts
 
 // click callback is set up to run when clicks happen
-$(document).click(function(clickEvent) {
+document.addEventListener('click', (clickEvent) => {
   console.log(3) // sometime later, a click has happened
 
   console.log("The click event:", clickEvent);
@@ -24,13 +24,15 @@ console.log(1) // program starts
 
 // AJAX request sent to async-workshops-api.herokuapp.com and callback
 // set up to run when response comes back
-$.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
-  console.log(3) // sometime later, the response has come in
+fetch("https://async-workshops-api.herokuapp.com/people")
+  .then(response => response.json())
+  .then(peopleResponse => {
+    console.log(3) // sometime later, the response has come in
 
-  console.log("People response:", peopleResponse);
+    console.log("People response:", peopleResponse);
 
-  console.log(4) // callback finishes running
-});
+    console.log(4) // callback finishes running
+  });
 
 console.log(2) // after callback set up, program stops work (for now)
 ```
@@ -42,19 +44,21 @@ console.log(1) // program starts
 
 // AJAX request sent to async-workshops-api.herokuapp.com and callback
 // set up to run when response comes back
-const getReturnValue = $.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
-  console.log(4) // sometime later, the response has come in
+const getReturnValue = fetch("https://async-workshops-api.herokuapp.com/people")
+  .then(response => response.json())
+  .then(peopleResponse => {
+    console.log(4) // sometime later, the response has come in
 
-  // peopleResponse contains the people data
-  console.log("peopleResponse:", peopleResponse)
+    // peopleResponse contains the people data
+    console.log("peopleResponse:", peopleResponse)
 
-  console.log(5) // about to finish running the callback
+    console.log(5) // about to finish running the callback
 
-  // A variable returned from a callback won't be returned from the function
-  // that the callback was passed to ($.get).  So this return line is redundant.
-  // (Research this!)
-  return peopleResponse;
-});
+    // A variable returned from a callback won't be returned from the function
+    // that the callback was passed to ($.get).  So this return line is redundant.
+    // (Research this!)
+    return peopleResponse;
+  });
 
 console.log(2) // after callback is set up, program continues
 
@@ -73,24 +77,26 @@ console.log(1) // program starts
 
 // AJAX request sent to async-workshops-api.herokuapp.com and callback
 // set up to run when response comes back
-$.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
-  console.log(3) // sometime later, response has come in
+fetch("https://async-workshops-api.herokuapp.com/people")
+  .then(response => response.json())
+  .then(peopleResponse => {
+    console.log(3) // sometime later, response has come in
 
-  // iterate through each person in peopleResponse
-  peopleResponse.forEach(function(person) {
-    // **Immediately**, a person is printed. There's no "sometime
-    // later". The program doesn't pause between starting the
-    // iteration and calling the callback for the first person.
+    // iterate through each person in peopleResponse
+    peopleResponse.forEach(person => {
+      // **Immediately**, a person is printed. There's no "sometime
+      // later". The program doesn't pause between starting the
+      // iteration and calling the callback for the first person.
 
-    console.log("4 and 5 and 6 and 7") // prints once for each person
+      console.log("4 and 5 and 6 and 7") // prints once for each person
 
-    console.log(person.name); // print person's name
+      console.log(person.name); // print person's name
 
-    console.log(8) // about to finish running the callback
+      console.log(8) // about to finish running the callback
+    });
+
+    console.log(9)
   });
-
-  console.log(9)
-});
 
 console.log(2) // after callback set up, program stops work (for now)
 ```
@@ -101,7 +107,7 @@ console.log(2) // after callback set up, program stops work (for now)
 console.log(1) // program starts
 
 // hiThere is set up to run 0 milliseconds after we finish executing console.log(2)
-setTimeout(function hiThere(){
+setTimeout(() => {
   // callback starts executing
   console.log(3)
 

@@ -1,11 +1,15 @@
 <!doctype html>
 <html>
   <head>
-    <script src="https://code.jquery.com/jquery-3.2.0.min.js"></script>
 
     <script>
-      let url = "https://async-workshops-api.herokuapp.com/people";
-      $.get(url, (peopleResponse) => $("#person").html(peopleResponse[0].name));
+      let url = "https://async-workshops-api.herokuapp.com/people"
+
+      fetch(url)
+        .then(response => response.json())
+        .then((peopleResponse) => {
+          document.querySelector("#person").innerHTML = peopleResponse[0].name
+        })
     </script>
   </head>
 
