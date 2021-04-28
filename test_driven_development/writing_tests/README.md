@@ -116,7 +116,7 @@ This is a common pattern which many of your unit tests will follow.
 
 ## Exercise 2
 
-Look back to the code example from exercise 1. You already have a set of assertions for the suite of unit tests to cover this code. Now consider what would be needed to fulfil the arrange and assert steps of these tests.
+Look back to the code example from exercise 1. You already have a set of assertions for the suite of unit tests to cover this code. Now consider what would be needed to fulfil the arrange and act steps of these tests.
 
 To help, ask yourself the following questions:
 - What needs to be arranged in order for my code to run? What objects will I need instances of?
