@@ -1,10 +1,12 @@
 body {
   perspective: 500px;
-  margin: 200px;
+  width: 500px;
+  margin-top: 200px;
 }
 
 #spinner {
   margin-bottom: 50px;
+  text-align: center;
 }
 
 .spinning {
@@ -16,7 +18,7 @@ body {
 }
 
 button {
-  text-align: center;
+  margin: auto;
 }
 
 @keyframes spin {

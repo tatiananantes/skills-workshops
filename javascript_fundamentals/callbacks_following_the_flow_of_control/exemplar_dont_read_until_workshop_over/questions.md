@@ -42,7 +42,7 @@ console.log(1) // program starts
 
 // AJAX request sent to async-workshops-api.herokuapp.com and callback
 // set up to run when response comes back
-var getReturnValue = $.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
+const getReturnValue = $.get("https://async-workshops-api.herokuapp.com/people", function(peopleResponse) {
   console.log(4) // sometime later, the response has come in
 
   // peopleResponse contains the people data

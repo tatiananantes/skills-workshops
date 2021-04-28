@@ -1,6 +1,6 @@
 describe("Pen", function() {
-  var pen;
-  var sheep;
+  let pen;
+  let sheep;
 
   describe("#admit", function() {
     beforeEach(function() {
@@ -15,7 +15,7 @@ describe("Pen", function() {
   });
 
   describe("#sheepNames", function() {
-    var bessie, flossie;
+    let bessie, flossie;
 
     beforeEach(function() {
       pen = new Pen();

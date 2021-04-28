@@ -18,8 +18,8 @@ World.prototype = {
   }
 };
 
-var screen = document.getElementById("screen").getContext("2d");
-var world = new World(screen);
+const screen = document.getElementById("screen").getContext("2d");
+const world = new World(screen);
 
 function tick() {
   world.update();

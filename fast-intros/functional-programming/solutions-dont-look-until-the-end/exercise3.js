@@ -1,6 +1,6 @@
 // Write some functional code that finds the average height of these people:
 
-var people = [
+const people = [
   { name: "Mary", height: 160 },
   { name: "Lauren", height: 165 },
   { name: "Isla", height: 80 }

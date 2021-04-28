@@ -1,11 +1,11 @@
 // Create a pen
 
-var pen = new Pen();
+const pen = new Pen();
 
 // Create some sheep
 
-var dolly = new Sheep('dolly');
-var molly = new Sheep('molly');
+const dolly = new Sheep('dolly');
+const molly = new Sheep('molly');
 
 // Add Sheep to the Pen
 

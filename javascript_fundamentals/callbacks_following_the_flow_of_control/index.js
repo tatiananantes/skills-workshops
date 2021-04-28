@@ -8,5 +8,12 @@ window.addEventListener("DOMContentLoaded", () => {
 
   spinButton.addEventListener("click", () => {
     spinner.classList.toggle("spinning")
+
+    if(spinner.classList.contains("spinning")) {
+      spinner.innerHTML = "Like a record baby"
+    }
+    else {
+      spinner.innerHTML = "You spin me right round ..."
+    }
   })
 })

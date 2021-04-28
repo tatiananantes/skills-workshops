@@ -77,7 +77,7 @@ CountModel.prototype.set = function(count) {
   this._count = count;
 };
 
-var countModel = new CountModel();
+const countModel = new CountModel();
 countModel.set(5);
 console.log("count is", countModel.count());
 ```
@@ -100,7 +100,7 @@ CountModel.prototype.set = function(count) {
   this._count = count;
 };
 
-var countModel = new CountModel();
+const countModel = new CountModel();
 countModel.set(5);
 console.log("count is", countModel.count());
 ```
@@ -125,7 +125,7 @@ CountModel.prototype.set = function(count) {
   this._count = count;
 }
 
-var countModel = new CountModel();
+const countModel = new CountModel();
 countModel.set(5);
 console.log("count is", countModel.count());
 ```
@@ -145,7 +145,7 @@ CountModel.prototype.set = function(count) {
   this._count = count;
 };
 
-var countModel = new CountModel();
+const countModel = new CountModel();
 
 // How does the printed output of the program change if you add this
 // code? Why?
@@ -173,7 +173,7 @@ CountModel.prototype.set = function(count) {
   this._count = count;
 };
 
-var countModel = new CountModel();
+const countModel = new CountModel();
 countModel.set(5);
 console.log("count is", countModel.count());
 

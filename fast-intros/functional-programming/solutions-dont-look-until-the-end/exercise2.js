@@ -3,7 +3,7 @@
 // Isla.", "Isla chortled."]` and counts the number of occurences of
 // the word `Isla`.
 
-var sentences = ["Mary read a story to Lauren and Isla.",
+const sentences = ["Mary read a story to Lauren and Isla.",
                  "Lauren cuddled Isla.",
                  "Isla chortled."];
 

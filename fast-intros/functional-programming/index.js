@@ -1,6 +1,6 @@
 // Incrementing a number (not functional)
 
-var number = 0;
+let number = 0;
 
 function add1NotFunctional() {
   number += 1;
@@ -19,10 +19,10 @@ console.log(add1Functional(3));
 
 // Squaring some numbers (not functional)
 
-var numbers = [1, 2, 3, 4];
-var squaredNumbers = [];
+const numbers = [1, 2, 3, 4];
+const squaredNumbers = [];
 
-for (var i = 0; i < numbers.length; i++) {
+for (let i = 0; i < numbers.length; i++) {
   squaredNumbers.push(numbers[i] * numbers[i]);
 }
 
@@ -36,10 +36,10 @@ console.log([1, 2, 3, 4].map(function(number) {
 
 // Summing some numbers (not functional)
 
-var numbers = [1, 2, 3, 4];
-var total = 0;
+const numbers = [1, 2, 3, 4];
+let total = 0;
 
-for (var i = 0; i < numbers.length; i++) {
+for (let i = 0; i < numbers.length; i++) {
   total += numbers[i];
 }
 

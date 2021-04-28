@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  var galleryController = new GalleryController(document.getElementById("app"),
+  const galleryController = new GalleryController(document.getElementById("app"),
                                                 Gallery,
                                                 GalleryView);
 

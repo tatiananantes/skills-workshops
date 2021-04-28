@@ -24,7 +24,7 @@ The solution is `console.log(countModel["__proto__"] === CountModel.prototype);`
 function Thing() {
   // these three lines are run automatically by JS because the `new`
   // keyword was used, even though they don't appear in your code:
-  // var thing = {};
+  // const thing = {};
   // thing.__proto__ = Thing.prototype;
   // return thing;
 };
@@ -33,7 +33,7 @@ Thing.prototype.setName = function(name) {
   this._name = name;
 }
 
-var thing = new Thing();
+const thing = new Thing();
 thing.setName("Isla");
 ```
 
@@ -47,7 +47,7 @@ Imagine we change the code to this:
 function Thing() {
   // these three lines are run automatically by JS because the `new`
   // keyword was used, even though they don't appear in your code:
-  // var thing = {};
+  // const thing = {};
   // thing.__proto__ = Thing.prototype;
   // return thing;
 };
@@ -56,7 +56,7 @@ Thing.prototype.setName = function(name) {
   this._name = name;
 }
 
-var thing = new Thing();
+const thing = new Thing();
 
 // we've added these three lines of code:
 thing.setName = function(name) {
