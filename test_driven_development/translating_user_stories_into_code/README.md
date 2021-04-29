@@ -25,45 +25,67 @@ Our user story breaks down into 3 main parts
 
 To help us plan the code that needs to be written, we only need to consider the third part of the statement.
 
+`I would like to be able to deposit money into my bank account`
+
+But the first and second parts of the statement are important for the context of the problem and encourage you, as the developer, to put yourself in the position of your users.
+
 A working code example might look like:
 ```
 class BankAccount
   def initialize
     @balance = 0
   end
+  
   def deposit(money)
     @balance = @balance + money
-    return
   end
+  
   def balance
     @balance
   end
 end
 ```
 
-What would we expect to happen if this feature worked?
+Can you explain how this piece of code satisfies the users story?
 
 ### Exercise 1
 
-Looking at the user stories and the code below, can you verify that the user story has been implemented?
+Looking at the user stories and the code below, can you verify that the user story has been satisfied?
 
-##### As a book reader, so that I can read my book, I want to be able to turn a page of my book
+#### User story
+
+```
+As a book reader
+So that I can read my book
+I want to be able to turn a page of my book
+```
+
+#### Code
 ```
 class Book
   def initialize
     @page = 1
   end
+
   def turn
     @page = @page + 1
-    return
   end
+
   def page
     @page
   end
 end
 ```
 
-##### As a busy person, so that I can keep track of my business, I want to be able to add an item to a list
+#### User story
+
+```
+As a busy person
+So that I can keep track of my business
+I want to be able to add an item to a list
+```
+
+#### Code
 ```
 class TodoList
   def initialize
@@ -80,7 +102,11 @@ end
 ```
 
 ### Mapping a user story to the code
-##### As a bank account user, so that I can save my money, I would like to be able to deposit money into my bank account
+```
+As a bank account user
+So that I can save my money
+I would like to be able to deposit money into my bank account
+```
 
 Pull out the nouns and the verbs of the user story above and describe what role they play in the bank account code.
 
@@ -91,7 +117,14 @@ In the other two user stories, pull out the nouns and the verbs and consider wha
 ### Exercise 3
 Using the following user stories, complete the code to implement the user story. How would you run the code to check the user story has been implemented?
 
-##### As a shop owner, so that I can open my shop for the day, I would like to be able to unlock the door.
+#### User story
+```
+As a shop owner
+So that I can open my shop for the day
+I would like to be able to unlock the door
+```
+
+#### Code
 ```
 class Door
   def initialize
@@ -104,7 +137,14 @@ class Door
 end
 ```
 
-##### As someone who struggles to sleep, so that I can fall asleep, I would like to be able to count sheep.
+#### User story
+```
+As someone who struggles to sleep
+So that I can fall asleep
+I would like to be able to count sheep.
+```
+
+#### Code
 ```
 class Sheep
   def initialize
