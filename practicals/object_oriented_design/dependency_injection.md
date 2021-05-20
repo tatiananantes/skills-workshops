@@ -202,7 +202,7 @@ class EmailClient
 end
 
 class Message
-  def send(to, body)
+  def send_email(to, body)
     # Imagine I'm sending an email
   end
 end
@@ -210,7 +210,7 @@ end
 class SayHello
   def run
     email = EmailClient.new
-    email.message.send(
+    email.message.send_email(
       "friend@example.com",
       "HELLO!"
     )
@@ -272,8 +272,10 @@ describe Note do
   let(:body) { 'remember to buy milk and eggs' }
   let(:expected_format) { "Title: #{title}\n#{body}" }
 
-  let(:formatter) { double(:formatter, format: expected_format) }
-  let(:note) { described_class.new(title, body, formatter) }
+  # note: the name given to the double doesn't matter, 
+  # what is important is that we pass it to `described_class.new` on the following line!
+  let(:formatter) { double(:formatter_double, format: expected_format) }
+  let(:note) { described_class.new(title, body, formatter_double) }
 
   describe '#display' do
     it 'displays correctly' do
@@ -354,7 +356,7 @@ class EmailClient
 end
 
 class Message
-  def send(to, body)
+  def send_email(to, body)
     # Imagine I'm sending an email
     # we'll return true, assuming everything went ok
     return true
@@ -367,7 +369,7 @@ class SayHello
   end
 
   def run
-    @client.message.send(
+    @client.message.send_email(
       "friend@example.com",
       "HELLO!"
     )
