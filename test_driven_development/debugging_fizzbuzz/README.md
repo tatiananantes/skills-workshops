@@ -10,6 +10,15 @@ There are two exercises in this workshop, each exercise is program that has a nu
 
 > You should not change the tests, only the code, in this exercise.
 
+## Learning goals
+
+By the end of the workshop, all developers can:
+- Explain what a bug is
+- Explain a good approach to debugging
+- Follow an effective debugging process to identify a bug
+- Follow an effective debugging process to fix a bug
+
+
 ## Setup
 
 Clone this repo, and `cd` into it.
