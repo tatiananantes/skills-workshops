@@ -1,6 +1,8 @@
 Diagramming 1
 =============
 
+**Attention: This practical contains diagram notation that won't render on Github. Please use the rendered version on [HackMD](https://hackmd.io/@makers-kay/B1cZE4bcO).**
+
 ## Learn To
 
 * Diagram the following types of code
