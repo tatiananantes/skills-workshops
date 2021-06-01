@@ -1,4 +1,4 @@
-# Programming Fundamentals
+# Programming Fundamentals
 
 A series of workshops, typically run in weeks 1 and 2 of the apprenticeships bootcamp, that introduce control flow, Arrays, Hashes, methods and Classes.
 
