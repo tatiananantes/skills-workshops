@@ -1,6 +1,6 @@
 # Classes
 
-## Pre-requisite knowledge
+## Pre-requisite knowledge
 
 You might need to demonstrate these things..
 - Basics of scope
