@@ -1,4 +1,4 @@
-# Using Hashes
+# Using Hashes
 
 In this workshop, you'll learn the basics of how to use Hashes.
 
