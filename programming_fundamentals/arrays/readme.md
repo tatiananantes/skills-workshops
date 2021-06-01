@@ -20,4 +20,10 @@ In this workshop, you'll learn the basics of how to use arrays.
 5. Get user input and add whatever they say to an array, stop when they say 'stop' then `puts` the array
 6. Look at the [docs][ruby_docs], find an interesting method and play with it
 
+
+## Resources
+
+If you want to learn more about arrays, the [Arrays pill][arrays_pill] is a great place to start.
+
+[arrays_pill]: https://github.com/makersacademy/course/blob/cd-github-actions/pills/arrays.md
 [ruby_docs]: https://ruby-doc.org/core-3.0.0/Enumerable.html
