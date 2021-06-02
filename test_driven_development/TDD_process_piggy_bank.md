@@ -12,7 +12,7 @@
 
 ## 1. The steps of TDD (10min + 5min)
 
-In teams, describe or diagram the process of TDD. Your diagram might include: `Red`, `Writing a test`, `Green`, `User story`, `Refactor`, `Write the simplest possible code`, `Feature test`
+In teams, describe or diagram the process of TDD. Your diagram might include: `Red`, `Writing a test`, `Green`, `User story`, `Refactor`, `Write the simplest possible code`, `Unit test`
 
 ## 2. Apply the process (10min + 30min)
 
