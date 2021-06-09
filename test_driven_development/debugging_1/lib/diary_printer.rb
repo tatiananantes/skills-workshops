@@ -15,6 +15,6 @@ class DiaryPrinter
   attr_reader :diary, :output
 
   def pretty_print_appointment(appointment)
-    output.print("#{appointment.title}: #{appointment.time.strftime("%d/%m/%y at %H:%M")}")
+    output.print("#{appointment.title}: #{appointment.start_time.strftime("%d/%m/%y at %H:%M")}")
   end
 end

@@ -2,10 +2,11 @@ gem 'really-broken-geocoder'
 require 'geocoder'
 # Understands somewhere I need to be at a particular time
 class Appointment
-  attr_reader :time, :title
+  attr_reader :start_time, :end_time, :title
 
-  def initialize(time, tit1e, location, geocoder = Geocoder)
-    @time = time
+  def initialize(start_time, end_time, title, location, geocoder = Geocoder)
+    @start_time = start_time
+    @end_time = start_time
     @title = title
     @location = location
     @geocoder = geocoder

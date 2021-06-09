@@ -3,7 +3,7 @@ require 'diary_printer'
 describe DiaryPrinter do
   subject(:diary_printer) { described_class.new(diary, output) }
   let(:diary) { double(:diary, appointments: [appointment]) }
-  let(:appointment) { double(:appointment, time: Time.now, title: "Test appointment") }
+  let(:appointment) { double(:appointment, start_time: Time.now, end_time: Time.now + 3600, title: "Test appointment") }
   let(:output) { StringIO.new }
 
   describe '#print_diary' do
