@@ -32,11 +32,11 @@ An exercise to help with understanding and practicing mocking by writing "useful
 
 ### Instructions
 
-Start with filling in the tests in the Airport Spec. The Airport class is tightly coupled to Weather class.
+Start with filling in the tests in the Airport Spec. The Airport class is **tightly coupled** to Weather class.
 
-1. **Remove this tight coupling.**
+1. **Remove this tight coupling in the Airport class so it is no longer tightly coupled with the Weather class**
 
-2. **Once this has been done, write the missing tests. The tests should be isolated using doubles.**
+2. **Once this has been done, write the missing tests for the Airport class. The tests should be isolated using doubles.**
 
 3. **Make sure the tests are actually verifying your Airport class is handling what is returned from the weather object's method in the way you expect.**
 
