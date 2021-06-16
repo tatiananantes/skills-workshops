@@ -1,6 +1,6 @@
 # Using Methods
 
-In this workshop, you'll learn the basics of how to use Hashes.
+In this workshop, you'll learn the basics of how to use Methods.
 
 ## Learning outcomes
 
@@ -18,7 +18,7 @@ In this workshop, you'll learn the basics of how to use Hashes.
     - Divide 
     - Multiply
     - Define a method called “run” which calls two of the methods above and outputs a number. 
-2. Create a new file and fix the greet method (see below) so that it doesn’t violate SRP
+2. Create a new file and fix the greet method (see below) so that it doesn’t violate SRP.
 3. Define a new method that calls two methods from the file above.
 
 ```ruby
