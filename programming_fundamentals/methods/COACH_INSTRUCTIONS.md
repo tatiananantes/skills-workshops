@@ -8,7 +8,7 @@ Ask the devs to show thumbs on their understanding of the following objectives.
 - Explain what a method is
 - Explain why we use methods
 - Able to define some methods
-- Explain what SRP is and why we use it?
+- Explain what SRP is and why we use it
 
 ## Intro (20 mins)
 ##### Depending on where the group is at, you may wish to do an intro that touches on the following showing some live code examples...
