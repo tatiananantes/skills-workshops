@@ -5,11 +5,10 @@ In this workshop, you'll learn the basics of how to use Methods.
 ## Learning outcomes
 
 ##### By the end of this session, all developers can...
-- Describe what a method is 
+- Explain what a method is
 - Explain why we use methods
-- Pass values to methods
-- Explain the basics of SRP
-- Explain the basics of how methods interact with each other
+- Able to define some methods
+- Explain what SRP is and why we use it
 
 ## Exercises
 1. Define the following methods for a calculator:
