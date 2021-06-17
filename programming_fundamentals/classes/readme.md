@@ -23,7 +23,7 @@ calc.add(1,1) => "The answer is 2, Fred"
 
 3. Create a Robot class. Give it the following 4 pices of state and make sure that it can be instantiated with this state (just like in the example above): 
 
-1. A name
-2. An age 
-3. A colour
-4. A signature phrase that it likes to say - or even a joke, if you're feeling fancy!
+- A name
+- An age 
+- A colour
+- A signature phrase that it likes to say - or even a joke, if you're feeling fancy!
