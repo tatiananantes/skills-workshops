@@ -3,7 +3,9 @@
 ## Pre-requisite knowledge
 
 You might need to demonstrate these things..
-- Basics of scope
+- Basics of scope (method variables vs instance variables. A brief mention of how we can expose instance variables for other classes to use. Plus, why we need to create an instance of a class to be able to call a method on it). 
+
+
 ## Intro (20 mins)
 ##### Depending on where the group is at, you may wish to do an intro that touches on...
 - What a class is
