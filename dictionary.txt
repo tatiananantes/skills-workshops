@@ -129,6 +129,7 @@ CTOs
 customisable
 customisations
 CVC
+Dahl
 Datamaper
 DataMapper
 datatypes
@@ -470,6 +471,7 @@ repo's
 repos
 Requesters
 Retrium
+Roald
 Roboto
 Roi's
 RSpec

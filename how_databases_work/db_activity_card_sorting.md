@@ -13,30 +13,30 @@ The activity uses 4 sets of cards (could be post-its). Each has a different colo
 - database
 - table
 - row
-- column 
+- column
 - query
 
-### Set 2: Verbs 
+### Set 2: Verbs
 - is made up of
 - is made up of
 - operates on
 - is an attribute of
 
 ### Set 3: Library analogy
-- A Library 
-- Books 
-- Title 
-- Author 
-- A book 
-- Reading all the books by Roald Dahl 
-- Adding 3 books to the inventory 
+- A Library
+- Books
+- Title
+- Author
+- A book
+- Reading all the books by Roald Dahl
+- Adding 3 books to the inventory
 
 ### Set 4: Menu analogy
 - A restaurant menu
-- The desserts 
-- Price 
-- Tiramisu (a dessert) 
-- Removing an item from the menu because it's sold out 
+- The desserts
+- Price
+- Tiramisu (a dessert)
+- Removing an item from the menu because it's sold out
 - Looking at all the vegan desserts
 
 
@@ -57,7 +57,7 @@ At this point, I would give feedback if they are not sure. Some have different w
 #### 4 - Show one of the analogy decks.
 Here is an analogy. Look at all these cards, and place each of them next what they would be in that analogy.
 
-Most devs start placing the right card next to database, in which case I would say something like "Ok, so if a Library was a database, what would a book be?".
+Most devs start placing the right card next to database, in which case I would say something like "OK, so if a Library was a database, what would a book be?".
 #### 5 - Give them feedback and repeat with the other deck.
 If they are in pairs, I would sometimes give one analogy to each, and then ask them to give feedback to the other person, but I like the first method more as it gives them two full cycle of "try, feedback, try again".
 
@@ -71,7 +71,7 @@ Rows and columns can easily be confused. I like to introduce a new analogy there
  - CRUD
  - SQL
  - Record
- 
+
 Do you know what each of these words would mean in the context of databases?
 
 Each gives me an opportunity to go deeper:
