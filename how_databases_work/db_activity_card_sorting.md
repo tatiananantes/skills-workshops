@@ -80,3 +80,13 @@ Each gives me an opportunity to go deeper:
 - *CRUD :* What are the different types of queries? Can you classify the queries for the library? (Reading books = read, adding them = create). Can you imagine queries for U and D in the library analogy?
 - *SQL :* What it means, different pronunciations, the different between the language and the database systems based on it.
 - *Record:* Introduce them to several different words to talk about data (rows, records, entries, items..)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=how_databases_work/db_activity_card_sorting.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=how_databases_work/db_activity_card_sorting.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=how_databases_work/db_activity_card_sorting.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=how_databases_work/db_activity_card_sorting.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=how_databases_work/db_activity_card_sorting.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

@@ -63,3 +63,13 @@ Try this for expert-novice pairings.  A 'novice' being _anyone_, regardless of t
 
 - The expert (tour guide) takes on both strategic and tactical responsibilities (they both drive and navigate).  As they do so, the explain to the novice (tourist) the what and why of the things they're doing.
 - The expert must ensure that the novice does not become disengaged.
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/pairing_styles.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/pairing_styles.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/pairing_styles.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/pairing_styles.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/pairing_styles.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

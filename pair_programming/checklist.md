@@ -84,3 +84,13 @@ Spend a few minutes after your session reflecting on the experience.
 - [How to get useful feedback from your pair](https://blog.makersacademy.com/pair-programming-101-7900d4dfd321)
 - More on different [pairing styles](https://stackify.com/pair-programming-styles/).
 - Are you good at pair programming?  Take [the Thoughtbot quiz](https://quizzes.thoughtbot.com/quiz/1)
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/checklist.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/checklist.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/checklist.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/checklist.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=pair_programming/checklist.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
