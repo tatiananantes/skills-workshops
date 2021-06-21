@@ -90,7 +90,7 @@ puts magic_word
 
 2. Look at the `exercise_1/exercise_1.rb` file.
 
-3. Go through your printout.  Find all the variables that are printed (eg `puts @c`).  Predict what will be printed.
+3. Go through your printout.  Find all the variables that are printed (e.g. `puts @c`).  Predict what will be printed.
 
 4. Run the code to see if you were right.  If you weren't, experiment by changing and running code to understand the scope of the variables. Update your prediction.
 

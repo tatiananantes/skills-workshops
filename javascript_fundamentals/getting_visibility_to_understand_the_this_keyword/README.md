@@ -47,7 +47,7 @@ We'll come back together for a short plenary to discuss our answers to the quest
 
 ## Questions
 
-Note: the code in many of these questions is not realisitic or idiomatic JavaScript.  It's just for illustrating clear examples of the behaviour of the `this` keyword.
+Note: the code in many of these questions is not realistic or idiomatic JavaScript.  It's just for illustrating clear examples of the behaviour of the `this` keyword.
 
 ### Question 1
 

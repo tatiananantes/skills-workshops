@@ -1,6 +1,6 @@
 # Mocking
 
-An exercise to help with understanding and practicing mocking by writing "useful" tests (tests that verify functionality).
+An exercise to help with understanding and practising mocking by writing "useful" tests (tests that verify functionality).
 
 ### Learning Objectives
 
@@ -12,9 +12,9 @@ An exercise to help with understanding and practicing mocking by writing "useful
 
 ### Setup
 
-* If you don't already have it, clone the skills workshop repo.
+* If you don't already have it, clone the skills workshop repository.
 
-* Do a `git pull` to make sure you have an up-to-date version of the repo.
+* Do a `git pull` to make sure you have an up-to-date version of the repository.
 
 * `cd` into the `student-mocking-workshop` directory.
 

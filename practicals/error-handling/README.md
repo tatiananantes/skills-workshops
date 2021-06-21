@@ -33,9 +33,9 @@ What pieces of information do the error messages provide to us?
 Take a look at and have a go at running each of the code snippets within the `questions` directory e.g.
 `ruby questions/question_1.rb`
 
-Does the code run ok? If not can you find a syntax fix?
+Does the code run OK? If not can you find a syntax fix?
 
-If the code is running ok, have a go at running the tests. This can be done with the
+If the code is running OK, have a go at running the tests. This can be done with the
 `rspec` command.
 
 Does the code output what the test expects?

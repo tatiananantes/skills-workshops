@@ -1,6 +1,6 @@
 ### Details
 
-Let's define a new class EncryptedSecret to represent the encrypted secret. It has a public `#decrypt` method
+Let's define a new class `EncryptedSecret` to represent the encrypted secret. It has a public `#decrypt` method
 
 Hint: The ciphertext produced by `Secret#encrypt` is composed of pairs of characters each representing an encrypted plaintext character.
 

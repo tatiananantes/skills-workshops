@@ -16,7 +16,7 @@ Ask them to use `tighten the loop` and `get visibility` to debug `exercise_1`.
 
 ## Mid-point Review - 15 minutes
 
-Gather, and debug fizzbuzz as a group. This is an opportunity for them to see goodd process in action, and ask questions.
+Gather, and debug fizzbuzz as a group. This is an opportunity for them to see good process in action, and ask questions.
 
 Suggest picking names at random and asking them to solve one error.
 

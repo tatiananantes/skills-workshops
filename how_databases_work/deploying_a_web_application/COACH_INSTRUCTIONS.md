@@ -19,7 +19,7 @@ The Heroku guide is not shared at the start, so that the learners have to think 
 
 The deployment appears to go smoothly but the migration is not run so when the learners go to `/widgets` they see an error.
 
-To find the cause of this error they need to look in the application logs either on the Heroku platform or using the Heorku CLI.
+To find the cause of this error they need to look in the application logs either on the Heroku platform or using the Heroku CLI.
 
 ## Plenary ( 20 minutes )
 

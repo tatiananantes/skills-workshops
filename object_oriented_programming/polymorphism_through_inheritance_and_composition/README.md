@@ -143,7 +143,7 @@ class Car < Vehicle
 end
 ```
 
-Here we create a new class - Engine - and pass in an instance of it into a Car object as part of its initialize method.  This pattern allows us to share the behaviour of the engine class with other classes as we see fit - we need only include it where necessary.
+Here we create a new class - Engine - and pass in an instance of it into a Car object as part of its initialise method.  This pattern allows us to share the behaviour of the engine class with other classes as we see fit - we need only include it where necessary.
 
 We can achieve the same effect through the use of modules:
 

@@ -6,13 +6,13 @@
 
 * Do "thumbs" on the [learning objectives](README.md#learning-objectives).
 
-* Follow the instructions in the readme.
+* Follow the instructions in the README.
 
 * Do "thumbs" on the [learning objectives](README.md#learning-objectives).
 
 ## Main (30 minutes)
 
-* Follow the instructions in the readme.
+* Follow the instructions in the README.
 
 ## Plenary (15 minutes)
 

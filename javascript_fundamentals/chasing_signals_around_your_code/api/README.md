@@ -16,7 +16,7 @@ Start a Rails Server:
 rails s
 ```
 
-Your API is hosted at http://localhost:3000. There is one resource, `Task`, with associated routes:
+Your API is hosted at `http://localhost:3000`. There is one resource, `Task`, with associated routes:
 
 ```
    Prefix Verb   URI Pattern               Controller#Action

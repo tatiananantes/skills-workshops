@@ -34,7 +34,7 @@ class Person
 end
 ```
 
-So let's write a method to help compare two objects and outputs the result to STDOUT:
+So let's write a method to help compare two objects and outputs the result to `STDOUT`:
 
 ```ruby
 # method to help assert whether an expected outcome is returned
@@ -70,7 +70,7 @@ assert_equals(result, "Hi, Edward!\n")
 # => nil
 ```
 
-If we run it now, we haven't captured the output so `person.greet('Edward')` outputs to STDOUT, returns `nil`, which then is compared with the expectation and fails the test.
+If we run it now, we haven't captured the output so `person.greet('Edward')` outputs to `STDOUT`, returns `nil`, which then is compared with the expectation and fails the test.
 
 Run it and see.
 

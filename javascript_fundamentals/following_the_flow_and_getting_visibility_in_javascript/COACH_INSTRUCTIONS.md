@@ -12,7 +12,7 @@ At a high level, this week is about building the skills that let you learn a new
 
 ## Main (30 minutes)
 
-See the [student readme](README.md) for instructions.
+See the [student README](README.md) for instructions.
 
 ## Plenary (15 minutes)
 

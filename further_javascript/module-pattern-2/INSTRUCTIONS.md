@@ -12,7 +12,7 @@
 
 * Do "thumbs" on the [learning objectives](README.md#learning-objectives).
 
-* Ask the developers to explore the `interrobangSmiley` module, then source any questions they couldn't answer. Don't attempt to answer there questions yet, just record them on the board.
+* Ask the developers to explore the `interrobangSmiley` module, then source any questions they couldn't answer. Don't attempt to answer their questions yet, just record them on the board.
 
 ## Main (30 minutes)
 

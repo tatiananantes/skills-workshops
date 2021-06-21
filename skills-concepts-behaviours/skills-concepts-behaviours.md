@@ -1,4 +1,4 @@
-# Skills, Concepts and Behaviors
+# Skills, Concepts and Behaviours
 
 ## Learning objectives:
 

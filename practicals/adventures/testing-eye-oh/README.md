@@ -2,7 +2,7 @@
 
 ## Inquiry Projects
 
-Inquiry Projects, a term borrowed from [M Knowles](https://eric.ed.gov/?id=ED114653), are designed by learners to provide opportunities to dive deeper into knowledge, practice uncovering areas of ignorances, and identify improvements to your approach to learning.
+Inquiry Projects, a term borrowed from [M Knowles](https://eric.ed.gov/?id=ED114653), are designed by learners to provide opportunities to dive deeper into knowledge, practice uncovering areas of ignorance, and identify improvements to your approach to learning.
 
 ### Project Structure
 This is a structured project. Objectives have been set, steps identified, and some resources shared.
@@ -59,14 +59,14 @@ Let's learn about mocking, by diving into how to test `#puts` in ruby!
 Subgoals:
 
 - Explain how `#puts` works
-- Use plain ruby to test output to STDOUT
+- Use plain ruby to test output to `STDOUT`
 - Use `pry` to get visibility on how your code executes
 - Use blocks and `yield`
 
 ### Prerequisites
 
 - [install pry](https://github.com/pry/pry/#installation)
-  - `irb` clumsily sends [_all_ expressions](https://ruby-doc.org/stdlib-2.6.5/libdoc/pry/rdoc/pry/Notifier.html) to STDOUT, whereas `pry` doesn't.
+  - `irb` clumsily sends [_all_ expressions](https://ruby-doc.org/stdlib-2.6.5/libdoc/pry/rdoc/pry/Notifier.html) to `STDOUT`, whereas `pry` doesn't.
   - It's got nice colours too. And secretly it's far more powerful than you know!
 
 ### Project Map

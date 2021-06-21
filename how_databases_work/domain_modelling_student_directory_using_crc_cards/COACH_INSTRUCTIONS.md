@@ -8,11 +8,11 @@
 
 ### Starter (15 minutes)
 
-Demonstrate examples of CRC cards (you can use [this example](crc_example.md)). Collaboratively pull a database structure from the CRC cards in the way suggested in [the student readme](README.md).
+Demonstrate examples of CRC cards (you can use [this example](crc_example.md)). Collaboratively pull a database structure from the CRC cards in the way suggested in [the student README](README.md).
 
 ### Main (40 minutes)
 
-See [the student readme](README.md) for instructions.
+See [the student README](README.md) for instructions.
 
 ### Plenary (15 minutes)
 

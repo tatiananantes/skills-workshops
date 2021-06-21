@@ -12,7 +12,7 @@ In *Code Quality 1 (Testing & Linting)* we focused on **Passes the tests** via R
 
 Now we'll focus on **Reveals Intention**. Martin Fowler puts it like this:
 
-> "Reveals intention" is Kent's way of saying the code should be easy to understand. Communication is a core value of Extreme Programing, and many programmers like to stress that programs are there to be read by people. Kent's form of expressing this rule implies that the key to enabling understanding is to express your intention in the code, so that your readers can understand what your purpose was when writing it.
+> "Reveals intention" is Kent's way of saying the code should be easy to understand. Communication is a core value of Extreme Programming, and many programmers like to stress that programs are there to be read by people. Kent's form of expressing this rule implies that the key to enabling understanding is to express your intention in the code, so that your readers can understand what your purpose was when writing it.
 
 Today we'll focus on **revealing intention** through the lens of code readability.
 
@@ -654,7 +654,7 @@ end
 
 ---
 
-## You're done! :smirk_cat: 
+## You're done! :smirk_cat:
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

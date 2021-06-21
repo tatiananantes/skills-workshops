@@ -125,7 +125,7 @@ blue_july.add_student(george)
 george.add_slack_channel(blue_july)
 ```
 
-### Normalizing many to many relationships
+### Normalising many to many relationships
 
 The above example is weird. Notice how the `SlackChannels` and `Students` can get out of sync if we don't remember to add both.
 

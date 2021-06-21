@@ -34,6 +34,6 @@ Today you'll practice using the driver navigator style.  Make sure you plan your
 - [ ] Decide who is going to drive first
 - [ ] The driver gets set up with their text editor and shares their screen
 - [ ] You do some programming together and make regular commits
-- [ ] When it's time to switch, you make sure everything is commited and push the changes
+- [ ] When it's time to switch, you make sure everything is committed and push the changes
 - [ ] The new driver pulls those changes to their machine and gets set up to screen share
 - [ ] You do some more programming together and make regular commits...

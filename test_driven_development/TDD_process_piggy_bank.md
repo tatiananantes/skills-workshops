@@ -5,16 +5,16 @@
 * Describe the steps of the test-driven development process
 * Apply the test-driven development process to a simple program
 
-## 0. Intro - Why do we TDD (10min)
+## 0. Intro - Why do we TDD (10 min)
 
 * Why are tests useful?
 * Why would we write tests before writing code?
 
-## 1. The steps of TDD (10min + 5min)
+## 1. The steps of TDD (10 min + 5 min)
 
 In teams, describe or diagram the process of TDD. Your diagram might include: `Red`, `Writing a test`, `Green`, `User story`, `Refactor`, `Write the simplest possible code`, `Unit test`
 
-## 2. Apply the process (10min + 30min)
+## 2. Apply the process (10 min + 30 min)
 
 In pairs, follow the TDD process you have created to test-drive the following program.
 

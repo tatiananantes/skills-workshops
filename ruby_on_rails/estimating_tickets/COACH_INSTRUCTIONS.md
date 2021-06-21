@@ -4,7 +4,7 @@
 
 * Do "thumbs" on the [learning objectives](README.md#learning-objectives).
 
-* Work with the students to estimate existing tickets on the board. You can use trello labels to point the tickets.
+* Work with the students to estimate existing tickets on the board. You can use Trello labels to point the tickets.
 
 ## Main (30 minutes)
 

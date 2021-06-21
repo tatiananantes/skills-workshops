@@ -23,7 +23,7 @@ This workshop is 'more advanced' because we will need to track the flow of infor
 
 ## Setup
 
-1. Clone this repo.
+1. Clone this repository.
 2. `cd` into `/api` and run `bundle`, followed by `rake db:migrate` and then `rake db:seed`.
 
 ## Starter

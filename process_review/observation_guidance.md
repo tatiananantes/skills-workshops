@@ -24,11 +24,11 @@ When observing your pair, keep in mind the following indicators of good process.
 - Perseveres to solve the issue, even if they are not immediately aware of the cause
 related to the error they are seeing, and can quickly identify useful resources
 - Has a range to debugging approaches they can deploy to resolve an issue
-- Strives to build a mental model of the code they are working on e.g. diagramming or explaining what the code does in plain english
+- Strives to build a mental model of the code they are working on e.g. diagramming or explaining what the code does in plain English
 
 ## Modelling
 - Takes time to break the problem down into smaller problems
-- Writes out the individual parts of the problem in plain english before turning these into code
+- Writes out the individual parts of the problem in plain English before turning these into code
 - Has a clear picture of how the user will interact with the application
 - Does just enough design upfront to start
 - Does not think about adopting a specific solution until a pattern emerges in the code

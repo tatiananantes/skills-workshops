@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-See the readme.
+See the `README`.
 
 ## Instructions
 

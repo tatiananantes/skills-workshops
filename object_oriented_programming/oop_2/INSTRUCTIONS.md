@@ -12,7 +12,7 @@ Ask students: "what are the **abstractions** behind the following sets of **conc
 
 - 1, 15, 8, -2 _(Number)_
 - Red, Green, Blue, Puce _(Colour)_
-- XML, HTML, JSON, TXT _(Data type, or interchange format)_
+- `XML`, `HTML`, `JSON`, `TXT` _(Data type, or interchange format)_
 
 Explain:
 

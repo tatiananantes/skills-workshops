@@ -52,7 +52,7 @@ def move_200(vehicle)
 end
 ```
 
-The `Car`, `Plane` and `Skateboard` are now treated polymorphicly as just "vehicles".
+The `Car`, `Plane` and `Skateboard` are now treated polymorphically as just "vehicles".
 
 ### Duck typing
 

@@ -73,7 +73,7 @@ You have three classes that constitute a domain, with a mix of computed methods,
   * Column datatypes.
   * An indication of which columns are the primary keys and which are the foreign keys.
   * The DataMapper relationships between the columns/tables.
-  * The data relationships between the columns/tables (eg one to one).
+  * The data relationships between the columns/tables (e.g. one to one).
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

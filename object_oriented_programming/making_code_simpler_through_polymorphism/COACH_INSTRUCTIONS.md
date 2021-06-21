@@ -11,8 +11,8 @@
 
 * Ask the students for their thoughts on what makes the polymorphic version simpler.  Draw out these ideas:
   * It's simpler to understand a group of polymorphic classes because they all share the same concept.
-  * The shared code for a polymorphism is more reuseable.
-  * On the other hand, a polymorphism is sometimes more abstract and therefore harder to understand. eg `fly` vs `move`.
+  * The shared code for a polymorphism is more reusable.
+  * On the other hand, a polymorphism is sometimes more abstract and therefore harder to understand, e.g. `fly` vs `move`.
 
 ## Main (45 minutes)
 

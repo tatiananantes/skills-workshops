@@ -8,7 +8,7 @@
 
 ## Starter (5 minutes)
 
-- Use a physical procedure to demonstrate the idea of code as a set of precise instructions which can be interpreted by the computer eg [make a sandwich](https://www.youtube.com/watch?v=euFj8D1A1Kw)
+- Use a physical procedure to demonstrate the idea of code as a set of precise instructions which can be interpreted by the computer e.g. [make a sandwich](https://www.youtube.com/watch?v=euFj8D1A1Kw)
 
 ## Exercise 1 -> Group challenge
 

@@ -1,11 +1,11 @@
-#Domain modelling and disseminating knowledge (1hr 20mins)
+#Domain modelling and disseminating knowledge (1 hour 20 mins)
 
 This workshop is best presented on Wednesday of a project week such as Further JS week, when students are working in separate groups, each with a similar brief.
 
 ##Learning Objectives
 * Describe a domain model as a conceptual model of behaviour and state
 * Apply your knowledge of domain models to draw a diagram of your application
-* Evaluate and criticize domain diagrams
+* Evaluate and criticise domain diagrams
 
 ##Starter (5 minutes)
 * Introduce the learning objectives and ask people how confident they feel about them on a scale of thumbs

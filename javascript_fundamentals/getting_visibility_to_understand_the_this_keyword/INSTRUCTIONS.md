@@ -18,7 +18,7 @@
 
 ## Main (30 minutes)
 
-See the [student readme](README.md) for instructions.
+See the [student README](README.md) for instructions.
 
 ## Plenary (15 minutes)
 

@@ -5,7 +5,7 @@ Tightening the loop and getting visibility (on the web).
 ## Learning Objectives
 
 - Define 'debugging' as the process of eliminating bugs from an expected program output
-- Explain the mantra 'Tighten the loop; Get visibility' 
+- Explain the mantra 'Tighten the loop; Get visibility'
 - Use the mantra to resolve bugs across the web stack.
 
 ## Instructions
@@ -16,7 +16,7 @@ In this program, there are many bugs. You have three objectives:
 - You need to get all the tests passing.
 - You need to run the app and make sure it works.
 
-Previously, you practiced this debugging method:
+Previously, you practised this debugging method:
 
 - Tighten the loop (find the _exact line_ the bug is coming from)
 - Get visibility (use `p` to inspect everything to help you home in on the exact line)

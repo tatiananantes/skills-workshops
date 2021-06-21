@@ -6,7 +6,7 @@
 
 ## Introduction
 
-> Refactoring is a controlled technique for improving the design of an existing code base. Its essence is applying a series of small behavior-preserving transformations, each of which "too small to be worth doing". However the cumulative effect of each of these transformations is quite significant. – Martin Fowler
+> Refactoring is a controlled technique for improving the design of an existing code base. Its essence is applying a series of small behaviour-preserving transformations, each of which "too small to be worth doing". However the cumulative effect of each of these transformations is quite significant. – Martin Fowler
 
 **Refactoring** is the third and final part of the Red, Green, Refactor TDD Cycle. It's also the most important part. From doing refactoring, you:
 
@@ -88,10 +88,10 @@ class Calculator
 end
 ```
 
-The benefits are: 
+The benefits are:
 
-1. Everything to do with printing is in one place: the `#print` method. 
-2. Our `#add` method is easier to read. 
+1. Everything to do with printing is in one place: the `#print` method.
+2. Our `#add` method is easier to read.
 3. Our `#add` method has only one responsibility: calculating the result. It delegates printing responsibilities to another method, `#print`.
 
 > If you can do this pattern – extract method to a `private` method – the signs are good that you can now extract a class.

@@ -1,4 +1,4 @@
-# Process modelling, applied to HTTP request/response cycle and mvc
+# Process modelling, applied to HTTP request/response cycle and MVC
 
 
 ## Learning outcomes
@@ -13,7 +13,7 @@ By the end of this session you will be able to
 
 ## Set up
 Run the [to do list app](https://github.com/makersacademy/todo-list-web) on your machine by:
-- Fork the repo onto your github repo
+- Fork the repo onto your Github repo
 - Clone the repo onto your machine
 - To run the application
   - `cd todo-list-web`

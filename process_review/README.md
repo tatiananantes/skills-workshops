@@ -40,7 +40,7 @@ The objective is simply to practice and get feedback to improve your approach to
 ### Why should I do this?
 For a number of reasons.
 
-Practicing writing code while under observation helps show you how good your current process is - where do you get stuck, how are you debugging, how's your approach to TDD - and therefore an accelerated way to improve.
+Practising writing code while under observation helps show you how good your current process is - where do you get stuck, how are you debugging, how's your approach to TDD - and therefore an accelerated way to improve.
 
 Usefully you'll get feedback from your pair, and a recording to re-watch yourself write code.
 
@@ -75,7 +75,7 @@ To make it the most useful, follow these steps:
 6. Review your recorded process, and use rubric to note down where to improve.
 7. Repeat.
 
-Feel free to reach out to a coach during coaching hours to sit with you and give you feedback. (They'll watch it 3x-5x times the speed)
+Feel free to reach out to a coach during coaching hours to sit with you and give you feedback. (They'll watch it 3-5x times the speed)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

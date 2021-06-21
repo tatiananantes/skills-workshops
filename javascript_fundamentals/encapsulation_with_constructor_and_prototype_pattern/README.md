@@ -27,7 +27,7 @@ Encapsulation consists of two things:
 * Grouping behaviour with the data (state) it operates on.
 * Hiding the details of data and implementation from other units.
 
-### Investigate the CountModel code sample (30 mins)
+### Investigate the `CountModel` code sample (30 mins)
 
 * Pair up.
 

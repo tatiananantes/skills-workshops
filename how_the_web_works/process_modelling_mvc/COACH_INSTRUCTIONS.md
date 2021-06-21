@@ -15,7 +15,7 @@
 * Demonstrate the following chrome dev tools
   - The network tab
 * Demonstrate how `httpie` can be used to investigate the structure of an HTTP response.
-* Talk through the todolist app codebase and label the
+* Talk through the todo list app codebase and label the
   - Model
   - View
   - Controller
@@ -32,7 +32,7 @@
   - What is the difference between get/post
   - What is the difference between how data is sent
 using a get or a post request?
-  - What does a redirect do? Why does the creator of the todolist app use one in when handling the post request?
+  - What does a redirect do? Why does the creator of the todo list app use one in when handling the post request?
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

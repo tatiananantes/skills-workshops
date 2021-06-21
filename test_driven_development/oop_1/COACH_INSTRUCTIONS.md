@@ -20,7 +20,7 @@ Let's you build large systems by moving in tiny, obvious steps.
 
 ### Build a calculator without classes
 
-Create a public repo and initialize RSpec within. Build out a rudimentary calculator _without using classes_. An example is available on the master branch for this directory.
+Create a public repo and initialise RSpec within. Build out a rudimentary calculator _without using classes_. An example is available on the master branch for this directory.
 
 While building, you should elicit definitions for:
 
@@ -57,7 +57,7 @@ Choose two students' examples to share, and critique them. Then either demonstra
 ### Possible reasonable solutions (students, don't look at this until the workshop is over!)
 
 * Arithmetic class and Printer class.
-* monkey-patching Fixnum.
+* monkey-patching `Fixnum`.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -10,7 +10,7 @@ You'll TDD Conway's Game of Life in pairs.  You'll use the [4 rules of simple de
 
 * You'll spend 25 minutes TDDing the Game of Life [stories](#stories) in pairs.
 
-* You'll spend 15 minutes reviewing your own code.  To help you review your code, you'll use Corey Haines's [4 rules of simple design](https://piazza-resources.s3.amazonaws.com/j11t8bsxngk3r3/j2bwfpw8k5a2gx/Corey_HainesThe_Four_Rules_of_Simple_DesignEN.pdf?AWSAccessKeyId=AKIAIEDNRLJ4AZKBW6HA&Expires=1497276329&Signature=LXwB2CvvzzBII%2FdZEHx3grxPZXM%3D) book.
+* You'll spend 15 minutes reviewing your own code.  To help you review your code, you'll use Corey Haines' [4 rules of simple design](https://piazza-resources.s3.amazonaws.com/j11t8bsxngk3r3/j2bwfpw8k5a2gx/Corey_HainesThe_Four_Rules_of_Simple_DesignEN.pdf?AWSAccessKeyId=AKIAIEDNRLJ4AZKBW6HA&Expires=1497276329&Signature=LXwB2CvvzzBII%2FdZEHx3grxPZXM%3D) book.
 
 * As a whole group, we'll spend a few minutes discussing what we learned from the session.
 
@@ -20,11 +20,11 @@ You'll TDD Conway's Game of Life in pairs.  You'll use the [4 rules of simple de
 
 We'll do this session four times this week.  The goals are:
 
-* Practicing object oriented design and implementation.
+* Practising object oriented design and implementation.
 
-* Practicing TDDing in short development loops.
+* Practising TDDing in short development loops.
 
-* Practicing using the 4 rules of simple design to write high quality code.
+* Practising using the 4 rules of simple design to write high quality code.
 
 * Iterating on designing a solution to a problem without having to live with past decisions.
 

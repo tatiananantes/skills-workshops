@@ -3,7 +3,7 @@
 You'll need to
 - handle invalid commands and arguments and provide useful error messages
 - handle invalid character sets and provide useful error messages
-- package a library of code and publish it to rubygems
+- package a library of code and publish it to RubyGems
 - create a runnable command when installing the package
 
 ### Acceptance criteria

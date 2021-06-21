@@ -28,7 +28,7 @@ We're going to focus on how feedback from other humans can help us.
 
 ## Exercise 1
 
-Watch two coaches give eachother feedback. As they talk to eachother, pick out the feedback they give and put it on a graph like this:
+Watch two coaches give each other feedback. As they talk to each other, pick out the feedback they give and put it on a graph like this:
 
 ```
                   Useful

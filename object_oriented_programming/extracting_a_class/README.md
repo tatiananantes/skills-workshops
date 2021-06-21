@@ -11,7 +11,7 @@
 2. Diagram the current domain
 
 3. Annotate each line of the printout with the operations that are happening
-   - describe the code in english as if to someone who is not familiar with code.
+   - describe the code in English as if to someone who is not familiar with code.
 
 4. list all the
   - groupings of things doing similar things

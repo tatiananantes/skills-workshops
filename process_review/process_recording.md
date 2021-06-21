@@ -18,7 +18,7 @@ To make it the most useful, follow these steps:
   - Review your recorded process, and use rubric to note down where to improve.
   - Repeat.
 
-Feel free to reach out to a coach during coaching hours to sit with you and give you feedback. (They'll watch it 3x-5x times the speed)
+Feel free to reach out to a coach during coaching hours to sit with you and give you feedback. (They'll watch it 3-5x times the speed)
 
 # Observer
 You are responsible for timing the session and recording feedback in 3 ways.

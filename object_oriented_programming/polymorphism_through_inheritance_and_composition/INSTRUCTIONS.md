@@ -15,7 +15,7 @@ Polymorphism, inheritance and composition - what are they, and where should I us
 - Reiterate high level goals for the week
 - Ask for thumbs on the learning objectives for the workshop
 - Display code snippet in example/vehicles.rb - discuss problem of code repetition
-- Demonstrate refactoring the example using inheritance - emphasize that this pattern suggests an 'is a' relationship
+- Demonstrate refactoring the example using inheritance - emphasise that this pattern suggests an 'is a' relationship
 
 ## Main 1 - Inheritance (15 mins)
 ### Exercise 1
@@ -24,7 +24,7 @@ Polymorphism, inheritance and composition - what are they, and where should I us
 
 ## Mini-Plenary (20 mins)
 - Discuss advantages and canvas for possible drawbacks - demonstrate the problem of tight coupling between the superclass and subclasses by extending the interface of the superclass and introducing unwanted functionality into one of the subclasses
-- return to the code and demonstrate composition as an alternative to inheritance, emphasize 'has a' relationship
+- return to the code and demonstrate composition as an alternative to inheritance, emphasise 'has a' relationship
 
 ## Main 2 - Composition (20 mins)
 ### Exercise 2

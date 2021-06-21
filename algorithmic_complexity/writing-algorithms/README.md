@@ -30,14 +30,14 @@ Here's an example for a _sorting function_:
 
 Using physical object sometimes help here. Pieces of paper, cards, etc.
 
-*3. Write down each step in plain english*
+*3. Write down each step in plain English*
 
 *4. If it is possible directly:*
   - translate each of the steps into code
   otherwise:
   - think about each step separately, and break them down further following steps 2 to 4.
 
-*5. Once everything is translated to code, run your testcases*
+*5. Once everything is translated to code, run your test cases*
 
 If some tests fail, debug your code. One things that really help here is to get visibility on the value of each variable line by line.
 

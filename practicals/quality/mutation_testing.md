@@ -84,7 +84,7 @@ pass(yes,left)->end
 * `+` to `-` or `*` or `/` (and vice versa)
 * Add `1` to numbers
 * Change strings / add typos
-* `>` to `>=` (and vice vera)
+* `>` to `>=` (and vice versa)
 * Add any other subtle bugs that come to mind
 
 ## Exercise 1

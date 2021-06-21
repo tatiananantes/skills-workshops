@@ -10,7 +10,7 @@ The printed output doesn't change.  Putting an underscore at the beginning of a 
 
 ## Question 3
 
-An error is thrown: "TypeError: countModel.set is not a function".  This is because a constructor function implicitly returns a new object that has access to the functions defined on the constructor function's prototype.  The `return {}` stops that implicit return from happening, and makes the function explicitly return an empty object instead.  Because that empty object doesn't have the `set` function on it, an error is thrown.
+An error is thrown: `TypeError: countModel.set is not a function`.  This is because a constructor function implicitly returns a new object that has access to the functions defined on the constructor function's prototype.  The `return {}` stops that implicit return from happening, and makes the function explicitly return an empty object instead.  Because that empty object doesn't have the `set` function on it, an error is thrown.
 
 ## Question 4
 

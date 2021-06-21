@@ -38,7 +38,7 @@ A process model is a diagram/performance/[something else] that demonstrates how 
 
 * Ask what the components of a GET request are.  Ask what the components of a POST request are.
 
-* Ask about the advantanges and disadvantages of the ways the students chose to model the request/response process.
+* Ask about the advantages and disadvantages of the ways the students chose to model the request/response process.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

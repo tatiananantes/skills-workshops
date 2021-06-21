@@ -40,7 +40,7 @@ The next step is to create an app on the Heroku platform, so that Heroku is read
 
 OK, now you need to get the codebase for this toy-application onto the Heroku platform.
 
-> Pause here for a moment – what tool do you alreay use to move code around? 🤔
+> Pause here for a moment – what tool do you already use to move code around? 🤔
 
 You can push your code to the Heroku platform using Git.
 
@@ -75,7 +75,7 @@ When you get to step 4, focus on what happens, or should happen, during deployme
       <summary style="color:green;"><b>Click here if you're really stuck</b></summary>
       You can either `Run console` on your Heroku app, on the Heroku platform, which is exciting.
 
-      Or you can research the `heroku run` command, which you can execute in your own termninal on your own machine, and use that to do the necessary things.
+      Or you can research the `heroku run` command, which you can execute in your own terminal on your own machine, and use that to do the necessary things.
       </details>
 
 ## Plenary

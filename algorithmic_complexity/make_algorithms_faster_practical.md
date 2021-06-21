@@ -20,7 +20,7 @@ def shuffle(array)
 end
 ```
 
-### hasDuplicates
+### `hasDuplicates`
 This function returns `true` if an array contains duplicates, `false` otherwise (javascript).
 
 ```js
@@ -29,8 +29,8 @@ function hasDuplicates(arr) {
         for (j = i+1; i < arr.length; i++) {
             if (i == j) {
                 return true;
-            } 
-            
+            }
+
         }
     }
         return false;

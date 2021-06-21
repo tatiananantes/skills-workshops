@@ -11,7 +11,7 @@ We will be testing the application with RSpec and Rack::Test. The docs for Rack:
 For each exercise, you will be able to gain visibility by:
 * sending a cURL request to the server
 * running the tests
-* using the browser 
+* using the browser
 * using `p` to send output to the server log
 
 * Before you start each exercise, `cd` into the directory and run bundle
@@ -25,7 +25,7 @@ Rack is a library that provides a simplified interface between your ruby applica
 
 * Make the tests pass by changing the body and the status code of the response.
 
-## Exercise 2: rackup
+## Exercise 2: `rackup`
 
 In this exercise, the tests pass, but if you try to run your server using `rackup` there are problems.
 * Take time to identify how the files have changed - we no longer need so many `require`s at the top `hello_world.rb`, why not?
@@ -52,14 +52,14 @@ In this exercise, the tests pass, but if you try to run your server using `racku
 
 * The real power of rack comes with its ability to chain applications together in a stack. See the documentation [here](http://www.rubydoc.info/gems/rack/Rack/Builder)
 * In this exercise, we have introduced some extra layers of middleware. Unfortunately, they are broken. Fix them so that you can once again use the app by running `rackup`
-* What can you infer that rackup is doing, under the hood? 
-* What other uses can you think of that may utilize the middleware stack?
+* What can you infer that `rackup` is doing, under the hood?
+* What other uses can you think of that may utilise the middleware stack?
 
 ## Frameworks supported by Rack
 
-If rack provides the space to hang a stack of middleware, frameworks can extend its functionality with complex routing systems and MVC server structures. 
-* Checkout the [rack github](https://github.com/rack/rack) for a list of supported frameworks
-* How does a framework like sinatra make use of the Rack library?
+If rack provides the space to hang a stack of middleware, frameworks can extend its functionality with complex routing systems and MVC server structures.
+* Checkout the [rack Github](https://github.com/rack/rack) for a list of supported frameworks
+* How does a framework like Sinatra make use of the Rack library?
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

@@ -32,7 +32,7 @@ Make sure feedback is as specific as possible.
   - Body language
   - Eye contact
   - Tone of voice
-  - What you're wearing (research what the the company employees wear)
+  - What you're wearing (research what the company employees wear)
 
 #### Applicant
 

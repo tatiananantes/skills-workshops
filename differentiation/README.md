@@ -10,10 +10,10 @@ This is a guide to how to do differentiation during Skills Workshops.
 
 ###### By Outcome
 
-This is the least effective form of differentation. In essence, it is assumed that learners will fall into different categories of 'achievement' towards the outcome:
+This is the least effective form of differentiation. In essence, it is assumed that learners will fall into different categories of 'achievement' towards the outcome:
 
 - **All** will make basic progress
-- **Most** will make ok progress
+- **Most** will make OK progress
 - **Some** will make good progress
 
 Differentiation by outcome is the 'default form' of differentiation. For instance, in a workshop about Encapsulation:
@@ -44,7 +44,7 @@ Differentiation by support can have adverse effects on ability to self-lead in l
 
 This is a very effective form of differentiation. In essence, students complete different tasks depending on their 'level':
 
-- **Novice students** will be supported by a scaffold through the activity. This could be a [CBL scaffold](https://github.com/makersacademy/course-design/issues/56), or something [more sophisticated](https://en.wikipedia.org/wiki/Instructional_scaffolding). They may repeat the activity without the scaffold, too.
+- **Novice students** will be supported by a scaffold through the activity. This could be a [Challenge Based Learning scaffold](https://github.com/makersacademy/course-design/issues/56), or something [more sophisticated](https://en.wikipedia.org/wiki/Instructional_scaffolding). They may repeat the activity without the scaffold, too.
 - **Intermediate students** will do the activity without a scaffold.
 - **Advanced students** will do the activity without a scaffold, but with an [extension](https://github.com/makersacademy/course-design/issues/57).
 
@@ -86,7 +86,7 @@ Skills Workshops at Makers Academy are typically constructed via [Backward Desig
 
 Where possible, we try to differentiate the Main:
 
-- Take the Main activity. 
+- Take the Main activity.
 - [Write a scaffold (:construction:)](https://github.com/makersacademy/course-design/issues/56) for achieving success. This is the 'support' task route.
 - [Write an extension(:construction:)](https://github.com/makersacademy/course-design/issues/57) to do once success has been achieved. This is the 'extension' task route.
 

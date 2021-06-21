@@ -7,7 +7,7 @@ _This will need to be pasted into http://hackmd.io/ to render properly._
 
 * Test drive your code from the outside in
 
-## Introducton
+## Introduction
 
 One of the jobs of a software engineer is turning vague half-formed ideas into working software.
 

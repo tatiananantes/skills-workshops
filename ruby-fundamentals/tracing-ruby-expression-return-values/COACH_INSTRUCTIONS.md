@@ -4,7 +4,7 @@ Students practice understanding what each expression in a Ruby program evaluates
 
 * Talk through the README and set the students going on the exercises.
 
-* No plenary because this workshop is focused on students practicing with minimal coach involement.
+* No plenary because this workshop is focused on students practising with minimal coach involvement.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

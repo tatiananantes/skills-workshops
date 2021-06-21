@@ -42,13 +42,13 @@ Many forms!
 * Make sure that your models include the following:
 
   * The order that things happen in.
-  * The HTTP requests and the data they carry. (Resources for this at the bottom of this readme.)
-  * The HTTP responses and the data they carry. (Resources for this at the bottom of this readme.)
+  * The HTTP requests and the data they carry. (Resources for this at the bottom of this README.)
+  * The HTTP responses and the data they carry. (Resources for this at the bottom of this README.)
   * The movement of requests between client and server.
   * Mouse clicks.
   * What is displayed in the browser.
 
-You can use chrome dev-tools to monitor what is happenning on the network.
+You can use chrome dev-tools to monitor what is happening on the network.
 
 ## Processes to model
 
@@ -77,7 +77,7 @@ A user visits `https://makers-cats.herokuapp.com/` and they are shown this HTML:
 
 ### Home page with typo
 
-A user tries to visit `https://makers-cats.herokuapp.com/`, but mistypes the url as `https://makers-rats.herokuapp.com/` in their browser.
+A user tries to visit `https://makers-cats.herokuapp.com/`, but mistypes the URL as `https://makers-rats.herokuapp.com/` in their browser.
 
 At first they don't see the page they expect. When they fix their typo to the correct home page URL, they are shown this HTML:
 

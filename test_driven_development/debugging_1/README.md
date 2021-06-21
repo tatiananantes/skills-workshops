@@ -22,7 +22,7 @@ In this program, there are three bugs. You have to find them, and fix them. You 
 
 ### Setup
 
-* Clone the skills workshop repo.
+* Clone the skills workshop repository.
 
 * `cd` into the `test_driven_development/debugging_1` directory.
 

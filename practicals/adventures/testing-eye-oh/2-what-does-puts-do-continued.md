@@ -39,7 +39,7 @@ end
 It uses the [hierarchy of method lookups](https://gist.github.com/damien-roche/351bf4e7991449714533) to find a `#to_s` method
 , calls it, and then somehow it pops up in the terminal.
 
-So before `#puts` sends data to your terminal it tries to find a string respresentation of its argument(s). Easy enough when you're calling `#puts` with strings - but you can pass it any type, and it will try and convert it to a String.
+So before `#puts` sends data to your terminal it tries to find a string representation of its argument(s). Easy enough when you're calling `#puts` with strings - but you can pass it any type, and it will try and convert it to a String.
 
 But then how does this data appear in your terminal?
 

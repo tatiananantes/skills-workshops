@@ -1,6 +1,6 @@
 # Fast intro to animation
 
-This workshop will be a fast intro to building your first anmiation in JavaScript.
+This workshop will be a fast intro to building your first animation in JavaScript.
 
 I'll spend 10 minutes demoing the basic elements of making an animation.
 

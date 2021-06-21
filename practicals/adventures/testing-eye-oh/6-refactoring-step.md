@@ -45,7 +45,7 @@ Nice. You've successfully isolated your dependency and found a way to inject it,
 
 ### Further work
 - [ ] Using `StringIO` to figure out a way to test `#gets`
-- [ ] Instead of using `StringIO`, write your own class that implements the same interface - you'll know it works when you can use it instead of StringIO in the above example
+- [ ] Instead of using `StringIO`, write your own class that implements the same interface - you'll know it works when you can use it instead of `StringIO` in the above example
 
 [Back to project map](./README.md#project-map)
 

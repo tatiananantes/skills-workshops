@@ -1,7 +1,7 @@
 ## Version control example
 
 Use the process of drawing a cat collaboratively to demonstrate how version control
-works. 
+works.
 
 * Write git commands on to a piece of card
 
@@ -9,9 +9,9 @@ works.
 
 * Start drawing a cat and describe the commands to stage and commit this.
 
-* Take a portion of the cat drawing and create a commit message and sha
+* Take a portion of the cat drawing and create a commit message and SHA
 
-* Continue drawing the cat and make another commit message and sha
+* Continue drawing the cat and make another commit message and SHA
 
 * Demonstrate the staging by showing that you might want to only commit and
 push a portion of your changes to the cat without losing some of the edits you
@@ -30,6 +30,8 @@ and explain how git history works.
 
 
 Git commands covered:
+
+```
 git init
 git add
 git commit
@@ -38,6 +40,7 @@ git push
 git pull
 git clone
 git log
+```
 
 
 After the workshop
