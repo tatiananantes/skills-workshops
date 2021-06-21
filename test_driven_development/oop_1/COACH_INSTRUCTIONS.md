@@ -20,7 +20,7 @@ Let's you build large systems by moving in tiny, obvious steps.
 
 ### Build a calculator without classes
 
-Create a public repo and initialise RSpec within. Build out a rudimentary calculator _without using classes_. An example is available on the master branch for this directory.
+Create a public repo and initialise RSpec within. Build out a rudimentary calculator _without using classes_. An example is available on the main branch for this directory.
 
 While building, you should elicit definitions for:
 

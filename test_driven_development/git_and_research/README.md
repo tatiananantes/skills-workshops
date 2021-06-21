@@ -44,7 +44,7 @@
 
 1. Create a branch.  Make a change and commit it to the branch.  Push the branch to your `meals-2` repo on GitHub.
 
-2. Merge the branch into master.  Push your `master` changes the repo on GitHub.
+2. Merge the branch into the main branch.  Push your `main` changes the repo on GitHub.
 
 ## Plenary (15 mins)
 

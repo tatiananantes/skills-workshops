@@ -37,7 +37,7 @@ A video of this workshop is available [here](https://www.youtube.com/watch?v=AR1
 |-----------|------|
 | Superman  | Flight |
 
-- Pick a couple. Build a basic `Superhero` class that implements the following (up to the current state of `/lib/superhero.rb` on the master branch:
+- Pick a couple. Build a basic `Superhero` class that implements the following (up to the current state of `/lib/superhero.rb` on the main branch:
 
 ```ruby
 superman = Superhero.new("Superman", "flying")
