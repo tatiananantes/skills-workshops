@@ -15,7 +15,7 @@ Time: 45 mins (15 mins x 3)
 
 - Role play: 3 people per group. Each person has a role: EMPLOYER, APPLICANT, OBSERVER.
 
-- EMPLOYER interviews APPLICANT for 10 mins [see here for interview question inspiration](https://github.com/makersacademy/jobhunters/blob/master/interview_questions.md) (look at the "Understanding" section).
+- EMPLOYER interviews APPLICANT for 10 mins [see here for interview question inspiration](https://github.com/makersacademy/jobhunters/blob/main/interview_questions.md) (look at the "Understanding" section).
 
 - OBSERVER observes interview, time-keeps and runs feedback after interview.
 
@@ -59,12 +59,12 @@ At the end, we'll have a retro.
 
 ## Resources
 
-- https://github.com/makersacademy/jobhunters/blob/master/interview_questions.md
+- https://github.com/makersacademy/jobhunters/blob/main/interview_questions.md
 - [Taking your coding
-  further](https://github.com/makersacademy/jobhunters/blob/master/improving_your_code.md) -
+  further](https://github.com/makersacademy/jobhunters/blob/main/improving_your_code.md) -
   an article by a former coach explaining how to continue progressing as
   a developer.
-- [How to succeed tech tests](https://github.com/makersacademy/jobhunters/blob/master/tech_tests_how_to_succeed.md) *MAKE SURE TO USE THE CHECKLIST AT THE BOTTOM BEFORE SUBMITTING
+- [How to succeed tech tests](https://github.com/makersacademy/jobhunters/blob/main/tech_tests_how_to_succeed.md) *MAKE SURE TO USE THE CHECKLIST AT THE BOTTOM BEFORE SUBMITTING
   ANY TECH TEST* - those 10 points will take you a long way.
 - [TED talk on Power Poses](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en) if you lack confidence
 

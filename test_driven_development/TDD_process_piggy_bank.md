@@ -43,8 +43,8 @@ So I can enjoy my hard earned savings
 I can break my piggy bank and get back the number or coins that I had put in
 ```
 ## Resources
-* 💊 [Behaviour Driven Development with RSpec](https://github.com/makersacademy/course/blob/master/pills/rspec.md)
-* 💊 [Test Driven Development](https://github.com/makersacademy/course/blob/master/pills/tdd.md)
+* 💊 [Behaviour Driven Development with RSpec](https://github.com/makersacademy/course/blob/main/pills/rspec.md)
+* 💊 [Test Driven Development](https://github.com/makersacademy/course/blob/main/pills/tdd.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

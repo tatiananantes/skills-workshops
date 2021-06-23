@@ -6,7 +6,7 @@ To achieve these goals:
   >"I can TDD anything"
 
 ## Action Plan
-https://github.com/makersacademy/skills-workshops/tree/master/process_review#individual
+https://github.com/makersacademy/skills-workshops/tree/main/process_review#individual
 
 Recording your own screen while you write some code is a useful tool to help you improve your development process.
 

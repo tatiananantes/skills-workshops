@@ -64,9 +64,9 @@ I want to be able to get my current score
 
 ## Resources
 
-:pill: [Behaviour Driven Development with RSpec](https://github.com/makersacademy/course/blob/master/pills/rspec.md)
+:pill: [Behaviour Driven Development with RSpec](https://github.com/makersacademy/course/blob/main/pills/rspec.md)
 
-:pill: [Test Driven Development](https://github.com/makersacademy/course/blob/master/pills/tdd.md)
+:pill: [Test Driven Development](https://github.com/makersacademy/course/blob/main/pills/tdd.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

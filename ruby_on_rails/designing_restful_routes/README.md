@@ -16,7 +16,7 @@ In this workshop, you'll learn to use one of these conventions: RESTful routes.
 
 ### Read the REST pill (10 mins)
 
-https://github.com/makersacademy/course/blob/master/pills/rest.md
+https://github.com/makersacademy/course/blob/main/pills/rest.md
 
 ### Very quick Q&A (5 mins)
 
@@ -70,7 +70,7 @@ We'll come back together for a short plenary.  We'll discuss the routes we desig
 
 ## Resources
 
-* [REST :pill:](https://github.com/makersacademy/course/blob/master/pills/rest.md)
+* [REST :pill:](https://github.com/makersacademy/course/blob/main/pills/rest.md)
 * [Principles of good RESTful API design](https://codeplanet.io/principles-good-restful-api-design/)
 * [Nested routes in Rails](http://stackoverflow.com/questions/18219008/rails-4-nested-resources)
 

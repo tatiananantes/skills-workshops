@@ -127,7 +127,7 @@ We'll come back together for a short plenary to discuss learning new techniques.
 
 ## Resources
 
-* [Debugging :pill:](https://github.com/makersacademy/course/blob/master/pills/debugging.md)
+* [Debugging :pill:](https://github.com/makersacademy/course/blob/main/pills/debugging.md)
 * [The ready position](http://sjmog.github.io/posts/491_learning_to_learn_1/)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->

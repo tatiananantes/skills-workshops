@@ -23,9 +23,9 @@ Let's generate ideas in small groups using a collaboration tool.
 
 ## Resources
 
-- :pill: [Working from home](https://github.com/makersacademy/course/blob/master/pills/working-from-home.md)
-- :pill: [Remote pairing](https://github.com/makersacademy/course/blob/master/pills/remote-pairing.md)
-- :pill: [Collaboration tools](https://github.com/makersacademy/course/blob/master/pills/collaboration-tools.md)
+- :pill: [Working from home](https://github.com/makersacademy/course/blob/main/pills/working-from-home.md)
+- :pill: [Remote pairing](https://github.com/makersacademy/course/blob/main/pills/remote-pairing.md)
+- :pill: [Collaboration tools](https://github.com/makersacademy/course/blob/main/pills/collaboration-tools.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 

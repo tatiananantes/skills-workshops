@@ -67,7 +67,7 @@ the better your code becomes, the more value you can deliver to customers.
 ### 2. Do a code review (solo)
 
 First, read this :pill:
-[guide to code review](https://github.com/makersacademy/course/blob/master/how-to/code-review.md).
+[guide to code review](https://github.com/makersacademy/course/blob/main/how-to/code-review.md).
 
 Review your pair's code **without referring to the challenge rubric**. Stretch
 yourself to see how much feedback you can think of before you move on.

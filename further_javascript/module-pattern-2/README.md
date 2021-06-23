@@ -53,7 +53,7 @@ We'll come back together for a short plenary.  We'll discuss problems we had wri
 ## Resources
 
 * [Immediately Invoked Function Expression (IIFE)](http://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript)
-* :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/master/pills/javascript_module_pattern.md)
+* :pill: [JavaScript module pattern](https://github.com/makersacademy/course/blob/main/pills/javascript_module_pattern.md)
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
