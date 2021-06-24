@@ -15,27 +15,30 @@ So getting some practice with the task reading unfamiliar codebases is going to 
 ## Learning outcomes
 
 By the end of this workshop, all devs will be able to
-1. Recognise the feeling of panic that sometimes comes from looking at new codebases
-2. Follow an effective process for getting to grips with a new codebase
+1. Recognise the discomfort that sometimes comes from looking at new codebases
+2. Follow the flow of execution within the context of a specific user story
+3. Explain how sign up and sign in are implemented in the example codebase
 
 ## Set up
 
 1. Clone [this repo](https://github.com/makersacademy/auth_workshop_codebase)
 2. Follow the set up instructions in the `README` for that repo
-3. Start the app and explore the user journeys for
-    - Signing up
-    - Signing in
 
 ## Exercise
 
-For sign in and sign up...
-1. Identify the relevant routes and methods – make a list of them.
-2. Do a diagram that that shows how the items in your list interact.
-3. Focusing only on the things in your list from step 1, read through the code to get a high level understanding of what's going on.
-4. Make a list of questions based on the above.
-5. Seek to answer those questions one by one.
-6. Update your diagram with any new details you have.
-7. Make a list of security features and potential vulnerabilities.
+First, work through these steps for sign up, then do them again for sign in...
+
+1. Explore the user journey
+2. The user journey starts with a form – find the corresponding view in the app's codebase
+3. Identify the code in `app.rb` that is executed when the form is submitted
+4. Dig into that code and try to get a high level understanding of what's going on
+5. Diagram your understanding
+
+### Questions
+1. Why is the password encrypted before being stored in the database?
+2. Why is the return value of `user.id` stored in the session after creating a new user?
+3. It's possible to create bookmarks even if you're not signed in. How could you fix that?
+
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
