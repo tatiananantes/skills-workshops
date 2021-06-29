@@ -57,7 +57,7 @@ function Person() {
   // What other variable in the program has the same value?
 };
 
-const person = new Person();
+let person = new Person();
 ```
 
 ### Question 2
@@ -70,7 +70,7 @@ function Person() {
 
 // In this version, the programmer has forgotten to put `new` before
 // `Person()`
-const person = Person();
+let person = Person();
 ```
 
 ### Pause
@@ -101,7 +101,7 @@ Person();
 function ClickCount() {
   this.count = 0;
 
-  const self = this;
+  let self = this;
   $(window).on("click", function() {
     // Why is `self` used here?
     // What would happen if `this` was used instead of `self`?
@@ -109,7 +109,7 @@ function ClickCount() {
   });
 };
 
-const clickCount = new ClickCount();
+let clickCount = new ClickCount();
 ```
 
 ### Question 5
@@ -129,10 +129,10 @@ Person.prototype = {
   }
 };
 
-const person = new Person();
+let person = new Person();
 console.log(person.exclaimName());
 
-const exclaimName = person.exclaimName;
+let exclaimName = person.exclaimName;
 console.log(exclaimName());
 ```
 
@@ -153,7 +153,7 @@ function exclaimName() {
 
 console.log(exclaimName());
 
-const person = new Person();
+let person = new Person();
 person.exclaimName = exclaimName;
 console.log(person.exclaimName());
 ```
@@ -179,10 +179,10 @@ function exclaimName() {
 
 console.log(exclaimName());
 
-const exclaimMary = exclaimName.call({ name: "Mary" });
+let exclaimMary = exclaimName.call({ name: "Mary" });
 console.log(exclaimMary);
 
-const exclaimIsla = exclaimName.apply({ name: "Isla" });
+let exclaimIsla = exclaimName.apply({ name: "Isla" });
 console.log(exclaimIsla);
 ```
 
