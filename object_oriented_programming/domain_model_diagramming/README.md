@@ -44,15 +44,15 @@ I want to be able to print out my score
 
 ## How do you diagram a domain model?
 
-Domain models can be expressed in many forms.  
+Domain models can be expressed in many forms. So far we have seen:  
 
 * Nouns and verbs using boxes and arrows. (As above.)
 
 * Nouns and verbs in lists.
 
-The Unified Modelling Language (UML) is a widely adopted standard for  creating a variety of diagrams which can be useful in your work as a developer:
+Another commonly used approach is the Unified Modelling Language (UML). UML is a widely adopted standard for creating a variety of diagrams which can be useful in your work as a developer. UML covers different diagram types, each tailored to particular situations. The following sections describe two of them in more detail.
 
-* A sequence diagram:
+### Sequence diagrams
 
 A sequence diagram represented the flow of information throughout your domain.  A sequence diagram for our coin flipping application might look like this:  
 
@@ -60,7 +60,7 @@ A sequence diagram represented the flow of information throughout your domain.  
 
 The objects in your model are represented by the boxes at the top of the diagram.  The solid arrows pointing to the right represent the messages being sent between your objects and are labelled with their names.  The dashed arrows pointing left represent the return values, and are labelled with their types.
 
-* A class diagram:
+### Class diagrams
 
 A class diagram represents the relationships between objects in your model.  A class diagram for an application for logging the results of a series of dice rolls might look like this:
 
@@ -68,7 +68,7 @@ A class diagram represents the relationships between objects in your model.  A c
 
 The objects in your model are represented by boxes subdivided into up to three sections.  The name of the object is placed in the top section, any instance variables go in the middle, and methods are listed in the bottom section.  The arrows between the boxes indicate that the class at the base of the arrow knows about the class at the tip.
 
-UML covers 13 different diagram types, each tailored to particular situations.  Different forms work for different cases.  Experiment!
+In total, UML covers 13 different diagram types. Different forms work for different cases.  Experiment!
 
 ## How do you implement a program using a domain modelling-driven approach?
 
