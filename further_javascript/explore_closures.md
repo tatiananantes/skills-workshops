@@ -42,7 +42,7 @@ You'll see that the rate is *enclosed* in the closure scope.
 
 ```js
 function timer() {
- 	var startTime = Date.now()
+ 	const startTime = Date.now()
   	function read() {
   		return Date.now() - startTime;
 	}
@@ -54,7 +54,7 @@ function timer() {
 
 Use it!
 ```
-var t1 = timer()
+const t1 = timer()
 t1() // each call to t1 will return the number of ms since creating the timer.
 ```
 

@@ -31,7 +31,7 @@ setTimeout(function() {
 ---
 
 ```
-var callback = function() {
+const callback = function() {
 	console.log('hello')
 }
 setTimeout(callback, 1000)
@@ -42,7 +42,7 @@ setTimeout(callback, 1000)
 ```
 console.log('A')
 
-var callback = function() {
+const callback = function() {
 	console.log('B')
 }
 
@@ -58,7 +58,7 @@ console.log('D')
 ```
 console.log('A')
 
-var callback = function() {
+const callback = function() {
 	console.log('B')
 }
 
@@ -72,9 +72,9 @@ console.log('D')
 ---
 
 ```
-var a = 10
+const a = 10
 
-var callback = function() {
+const callback = function() {
 	a = 20
 }
 
@@ -86,9 +86,9 @@ console.log(a)
 ---
 
 ```
-var a = 10
+const a = 10
 
-var callback = function() {
+const callback = function() {
 	a = 20
 }
 setTimeout(callback, 0)
@@ -99,9 +99,9 @@ console.log(a)
 ---
 
 ```
-var a = 10
+const a = 10
 
-var callback = function() {
+const callback = function() {
 	a = 20
 	console.log(a)
 }
@@ -111,7 +111,7 @@ setTimeout(callback, 0)
 ---
 
 ```
-var callback = function() {
+const callback = function() {
 	return "hello"
 }
 setTimeout(callback, 2000)

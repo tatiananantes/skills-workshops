@@ -1,5 +1,5 @@
 describe("Sheep", function() {
-  var sheep;
+  let sheep;
 
   describe("#sayName", function() {
     beforeEach(function() {

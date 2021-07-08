@@ -33,7 +33,7 @@ Thing.prototype.setName = function(name) {
   this._name = name;
 }
 
-var thing = new Thing();
+const thing = new Thing();
 thing.setName("Isla");
 ```
 
@@ -56,7 +56,7 @@ Thing.prototype.setName = function(name) {
   this._name = name;
 }
 
-var thing = new Thing();
+const thing = new Thing();
 
 // we've added these three lines of code:
 thing.setName = function(name) {

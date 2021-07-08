@@ -44,7 +44,7 @@ console.log(1) // program starts
 
 // AJAX request sent to async-workshops-api.herokuapp.com and callback
 // set up to run when response comes back
-let getReturnValue = fetch("https://async-workshops-api.herokuapp.com/people")
+const getReturnValue = fetch("https://async-workshops-api.herokuapp.com/people")
   .then(response => response.json())
   .then(peopleResponse => {
     console.log(4) // sometime later, the response has come in

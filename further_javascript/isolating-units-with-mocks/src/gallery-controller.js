@@ -10,6 +10,6 @@ GalleryController.prototype.addImage = function(imageUrl) {
 };
 
 GalleryController.prototype._updateView = function() {
-  var galleryView = new this._GalleryView(this._gallery);
+  const galleryView = new this._GalleryView(this._gallery);
   this._element.innerHTML = galleryView.toHtml();
 };
