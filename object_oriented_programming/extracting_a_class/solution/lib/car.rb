@@ -1,5 +1,5 @@
 class Car
-  def initialize(config: config, driver:)
+  def initialize(config:, driver:)
     @driver = driver
     @engine = config[:engine]
     @motor = config[:motor]
