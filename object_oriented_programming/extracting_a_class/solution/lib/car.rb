@@ -7,7 +7,7 @@ class Car
   end
 
   def driver=(person)
-    fail "Driver Age Error" unless person.legal_driver?
+    fail 'Driver Age Error' unless person.legal_driver?
 
     @driver = person
   end
@@ -29,13 +29,13 @@ class Car
   end
 
   def accelerate(increment, seconds)
-    fail "Engine Off Error" unless engine.on?
+    fail 'Engine Off Error' unless engine.on?
 
     motor.accelerate(increment, seconds)
   end
 
   def brake(seconds)
-    fail "Engine Off Error" unless engine.on?
+    fail 'Engine Off Error' unless engine.on?
 
     motor.brake(seconds)
   end
