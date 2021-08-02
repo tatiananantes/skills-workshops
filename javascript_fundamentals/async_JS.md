@@ -72,7 +72,7 @@ console.log('D')
 ---
 
 ```
-const a = 10
+let a = 10
 
 const callback = function() {
 	a = 20
@@ -86,7 +86,7 @@ console.log(a)
 ---
 
 ```
-const a = 10
+let a = 10
 
 const callback = function() {
 	a = 20
@@ -99,7 +99,7 @@ console.log(a)
 ---
 
 ```
-const a = 10
+let a = 10
 
 const callback = function() {
 	a = 20
