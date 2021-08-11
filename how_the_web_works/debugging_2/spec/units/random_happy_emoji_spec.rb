@@ -5,13 +5,15 @@ require 'random_happy_emoji'
 describe RandomHappyEmoji do
   describe '::new' do
     it 'returns a :D emoji as a string', focus: true do
-      srand(67810)
-      expect(RandomHappyEmoji.new.to_s).to eq ":D"
+      allow_any_instance_of(RandomHappyEmoji).to receive(:random_index).and_return(0)
+
+      expect(RandomHappyEmoji.new.get_emoji).to eq ":D"
     end
 
     it 'returns a :) emoji as a string', focus: true do
-      srand(67809)
-      expect(RandomHappyEmoji.new.to_s).to eq ":)"
+      allow_any_instance_of(RandomHappyEmoji).to receive(:random_index).and_return(1)
+
+      expect(RandomHappyEmoji.new.get_emoji).to eq ":)"
     end
   end
 end

@@ -1,12 +1,16 @@
 # coding: utf-8
 
-require 'delegate'
-
 # Understands how to present a random, happy emoji
-class RandomHappyEmoji < SimpleDelegator
+class RandomHappyEmoji
   HAPPY_EMOJI = [":D"]
 
-  def initialize
-    super(HAPPY_EMOJI.sample)
+  def get_emoji
+    HAPPY_EMOJI[random_index]
+  end
+
+  private
+
+  def random_index
+    [0, 1].sample
   end
 end
