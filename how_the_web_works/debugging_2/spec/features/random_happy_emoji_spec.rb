@@ -6,15 +6,13 @@ Capybara.app = StruggleTableFlipperApp
 feature "show a random happy emoji on the home page" do
 
   scenario "the home page returns a successful status code" do
-    srand(67809)
     visit("/")
     expect(page.status_code).to eq(200)
   end
 
-  scenario "the happy emoji appears" do
-    srand(67809)
+  scenario "a random happy emoji appears" do
     visit("/")
-    expect(page).to have_content(":)")
+    expect(page).to have_content(':)').or have_content(':D')
   end
 
 end
