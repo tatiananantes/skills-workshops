@@ -1,6 +1,6 @@
 # Control Flow
 
-## Pre-requisite knowledge
+## Prerequisite knowledge
 
 You might need to demonstrate these things..
 - How to execute Ruby code

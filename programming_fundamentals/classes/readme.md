@@ -21,7 +21,7 @@ calc = Calculator.new('Fred')
 calc.add(1,1) => "The answer is 2, Fred"
 ```
 
-3. Create a Robot class. Give it the following 4 pices of state and make sure that it can be instantiated with this state (just like in the example above): 
+3. Create a Robot class. Give it the following 4 pieces of state and make sure that it can be instantiated with this state (just like in the example above): 
 
 - A name
 - An age 

@@ -40,7 +40,7 @@ The next step is to create an app on the Heroku platform, so that Heroku is read
 
 OK, now you need to get the codebase for this toy-application onto the Heroku platform.
 
-> Pause here for a moment – what tool do you already use to move code around? 🤔
+> Pause here for a moment – what tool do you already use to move code around? 🤔
 
 You can push your code to the Heroku platform using Git.
 
@@ -56,7 +56,7 @@ The new remote repo is called `heroku` and you can push your code there using Gi
 
 ### Challenges
 
-The application you just deployed was built using a Ruby framework called Rails.  You won't understand everything in the codebase, but that's OK – you don't need to change it!
+The application you just deployed was built using a Ruby framework called Rails.  You won't understand everything in the codebase, but that's OK – you don't need to change it!
 
 When you get to step 4, focus on what happens, or should happen, during deployment.  What does the application rely on?
 

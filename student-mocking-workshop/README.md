@@ -4,7 +4,7 @@ An exercise to help with understanding and practising mocking by writing "useful
 
 ### Learning Objectives
 
-* I understand that test doubles are objects that mimic behaviour of real objects in your program in a way that you dictate and therefore have full control over.
+* I understand that test doubles are objects that mimic behaviour of real objects in your program in a way that you dictate and therefore have full control over.
 
 * I understand how to use test doubles to isolate my tests and check the interaction between 2 objects.
 

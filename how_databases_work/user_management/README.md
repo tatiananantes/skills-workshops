@@ -29,7 +29,7 @@ By the end of this workshop, all devs will be able to
 First, work through these steps for sign up, then do them again for sign in...
 
 1. Explore the user journey
-2. The user journey starts with a form – find the corresponding view in the app's codebase
+2. The user journey starts with a form – find the corresponding view in the app's codebase
 3. Identify the code in `app.rb` that is executed when the form is submitted
 4. Dig into that code and try to get a high level understanding of what's going on
 5. Diagram your understanding

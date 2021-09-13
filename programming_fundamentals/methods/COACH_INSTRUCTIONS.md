@@ -14,7 +14,7 @@ Ask the devs to show thumbs on their understanding of the following objectives.
 ##### Depending on where the group is at, you may wish to do an intro that touches on the following showing some live code examples...
 
 - What a method is
-- How to define a method and how we use them to group behaviour. For example, the following 2 code snippets do the same thing but a method is better for OOD, readability, understanding the code and reusability. 
+- How to define a method and how we use them to group behaviour. For example, the following 2 code snippets do the same thing but a method is better for OOD, readability, understanding the code and reusability.
 
 ```
 p "hello"
