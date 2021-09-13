@@ -27,3 +27,13 @@ If you want to learn more about arrays, the [Arrays pill][arrays_pill] is a grea
 
 [arrays_pill]: https://github.com/makersacademy/course/blob/cd-github-actions/pills/arrays.md
 [ruby_docs]: https://ruby-doc.org/core-3.0.0/Enumerable.html
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/arrays/readme.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/arrays/readme.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/arrays/readme.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/arrays/readme.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/arrays/readme.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->

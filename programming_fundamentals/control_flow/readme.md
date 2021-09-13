@@ -25,3 +25,13 @@ In this workshop, you'll learn the basics of control flow.
 - Every time someone enters the supermarket, the user will enter +, and the total increments
 - Every time someone leaves the supermarket, the user will enter -, and the total decrements
 - If the user enters 'exit' the program stops
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/control_flow/readme.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/control_flow/readme.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/control_flow/readme.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/control_flow/readme.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=programming_fundamentals/control_flow/readme.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
