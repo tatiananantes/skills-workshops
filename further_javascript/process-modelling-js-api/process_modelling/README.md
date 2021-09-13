@@ -42,23 +42,28 @@ The code for this [can be found here.](https://github.com/makersacademy/thermost
 
 1. Clone the repo locally:
 ```
-git clone git@github.com:makersacademy/thermostat-example.git
+; git clone git@github.com:makersacademy/thermostat-example.git
 
-cd thermostat-example
+; cd thermostat-example
 ```
 2. Switch to the `sinatra-api` branch
 ```
-git checkout sinatra-api
+; git checkout sinatra-api
 ```
 3. Install dependencies
 ```
-bundle install
+; brew install geckodriver
+; bundle install
 ```
-4. Start the server
+4. Run the tests to ensure everything is set up correctly
 ```
-ruby app.rb
+; rspec
 ```
-5. Open the app by navigating to `http://localhost:4567/`
+6. Start the server
+```
+; ruby app.rb
+```
+6. Open the app by navigating to `http://localhost:4567/`
 
 ## Processes to model
 ### Home page
