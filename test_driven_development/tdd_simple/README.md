@@ -7,6 +7,8 @@ By the end of this workshop, you should be able to:
 
 ## Exercise 1 - approach to testing
 
+You'll need to clone this repo first.
+
 We wrote a small Ruby class to check if phone numbers are valid ones, in `exercise_1/lib/phone_checker.rb`. We'd now like to test this class to make sure it works.
 
 ```ruby
@@ -30,8 +32,9 @@ checker.check('222') == false
 # etc
 ```
 
-3. In the file `exercise_1/spec/phone_checker_spec.rb`, write tests for each of those cases using the [RSpec syntax](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/introduction-to-rspec#:~:text=Let%E2%80%99s%20add%20our%20first%20test.). You *should not* modify the `PhoneChecker` class code.
-4. Run `rspec` and make sure the tests pass. We've now written automated tests for our class.
+3. Run `bundle install` inside the directory `exercise_1`
+4. In the file `exercise_1/spec/phone_checker_spec.rb`, write tests for each of those cases using the [RSpec syntax](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/introduction-to-rspec#:~:text=Let%E2%80%99s%20add%20our%20first%20test.). You *should not* modify the `PhoneChecker` class code.
+5. Run `rspec` and make sure the tests pass. We've now written automated tests for our class.
 
 ## Edge cases
 
@@ -58,7 +61,7 @@ We need a class `PhoneChecker` to check phone numbers. This class has only one m
 We now need to think about *what the code would look like* if we were to call this class.
 
 1. Write how we would call this class methods if the code were written (it won't work, since it's not written!)
-2. Run `rspec --init` in the `exercise_2` directory to generate the `spec` directory and setup RSpec.
+2. Run `bundle install` and then `rspec --init` in the `exercise_2` directory to generate the `spec` directory and setup RSpec.
 3. Use the answers from 1. and what you've learned so far on the RSpec syntax to write a first RSpec test case in a file `exercise_2/spec/phone_checker_spec.rb`. You should write only on `it` block.
 4. Now write the minimal code for the class `PhoneChecker` in `exercise_2/lib/phone_checker.rb` that will make this first test pass. And *no more* than this code.
 5. Repeat steps 3 and 4 for the rest of the `check` method until it is complete (it matches all the requirements and there is one RSpec test case per requirement).
