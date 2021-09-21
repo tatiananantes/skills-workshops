@@ -2,8 +2,8 @@
 
 ## Objectives
 By the end of this workshop, you should be able to:
- * Understand the TDD process and its value.
- * Apply the TDD process on a simple Ruby program, using RSpec.
+ * Explain the TDD process and how it differs from "write-code-then-tests" approach.
+ * Apply a TDD process on a simple Ruby class, using RSpec.
 
 ## Exercise 1 - approach to testing
 
@@ -72,7 +72,10 @@ end
 
 ## Conclusion
 
-Which approach was better? 
+Compare the two approaches:
+ * What are the advantages of writing tests first (TDD)?
+ * How is it more challenging than writing first the code and then the tests?
+
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
 
 ---
