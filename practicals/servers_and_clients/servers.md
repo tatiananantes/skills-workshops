@@ -37,9 +37,9 @@ socket.puts "You said: #{they_said}. Goodbye!"
 socket.close
 ```
 
-Stick that in a ruby file and run it. It won't do anything — it'll just sit there.
+Stick that in a ruby file and run it. **It won't do anything.** It'll just sit there. That's expected.
 
-Open up another terminal and type this:
+**Open up a second terminal** and type this:
 
 ```bash
 $ telnet localhost 2345
