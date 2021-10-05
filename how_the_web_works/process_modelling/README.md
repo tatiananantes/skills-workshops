@@ -45,7 +45,7 @@ Many forms!
   * The HTTP requests and the data they carry. (Resources for this at the bottom of this README.)
   * The HTTP responses and the data they carry. (Resources for this at the bottom of this README.)
   * The movement of requests between client and server.
-  * Mouse clicks or other uer actions.
+  * Mouse clicks or other user actions.
   * What is displayed in the browser.
 
 You can use chrome dev-tools to monitor what is happening on the network.
