@@ -53,3 +53,13 @@ Write a unit test for the `LeagueOrganiser` class that is isolated from the `Mat
 Create a new feature using TDD: Instead of recording a win, the user can now record a score for the match. You should change the way matches are displayed accordingly.
 This is a good opportunity to introduce the possibility of draws.
 * Which test files will you have to change?
+
+<!-- BEGIN GENERATED SECTION DO NOT EDIT -->
+
+---
+
+**How was this resource?**  
+[😫](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/object_oriented_design/exploring_and_extracting/README.md&prefill_Sentiment=😫) [😕](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/object_oriented_design/exploring_and_extracting/README.md&prefill_Sentiment=😕) [😐](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/object_oriented_design/exploring_and_extracting/README.md&prefill_Sentiment=😐) [🙂](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/object_oriented_design/exploring_and_extracting/README.md&prefill_Sentiment=🙂) [😀](https://airtable.com/shrUJ3t7KLMqVRFKR?prefill_Repository=skills-workshops&prefill_File=practicals/object_oriented_design/exploring_and_extracting/README.md&prefill_Sentiment=😀)  
+Click an emoji to tell us.
+
+<!-- END GENERATED SECTION DO NOT EDIT -->
