@@ -60,6 +60,8 @@ end
 
 Now everything works! Great!
 
+🛑 🛑 **But Wait!!** 🛑 🛑
+
 Sadly, we've slipped into a common problem: **testing state rather than behaviour**.
 
 This is more or less how it happens:
