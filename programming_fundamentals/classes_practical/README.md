@@ -70,6 +70,16 @@ puts migel.name
 
 You should play with the above examples, and create 5 of your own classes, in IRB before starting the exercises.
 
+## How to get started
+
+You'll need to first clone the whole Skills Workshops repo onto your machine. Once you've done that, `cd` into `skills-workshops/programming_fundamentals/classes_practical/exercise_1` to work on the first exercise then run `rspec`. If you see some failing tests like the ones below, you're ready to go.
+
+```ruby
+rspec ./spec/cohort_spec.rb:8 # Cohort#name returns the name of the cohort
+rspec ./spec/cohort_spec.rb:14 # Cohort#add adds an apprentice to the cohort
+rspec ./spec/cohort_spec.rb:22 # Cohort#remove remove an apprentice from the cohort
+```
+
 ## Exercise 1
 
 In this exercise, you will build a `Cohort` class that stores apprentices as strings.
