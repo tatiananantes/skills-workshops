@@ -17,8 +17,8 @@ RSpec.describe Cohort do
       subject.add(mathilde)
       subject.add(claude)
       expect(subject.apprentices).to eq [
-        'Mathilde Legrand',
-        'Claude Petit'
+        mathilde,
+        claude
       ]
     end
   end
@@ -28,19 +28,19 @@ RSpec.describe Cohort do
       subject.add(mathilde)
       subject.add(claude)
       subject.remove('Mathilde Legrand')
-      expect(subject.apprentices).to eq ['Claude Petit']
+      expect(subject.apprentices).to eq [claude]
     end
   end
 
   describe '#dev_ops_apprentices' do
     it 'returns only the dev ops apprentices' do
-      expect(subject.dev_ops_apprentices).to eq ['Mathilde Legrand']
+      expect(subject.dev_ops_apprentices).to eq [mathilde]
     end
   end
 
   describe '#software_development_apprentices' do
     it 'returns only the software development apprentices' do
-      expect(subject.software_development_apprentices).to eq ['Claude Petit']
+      expect(subject.software_development_apprentices).to eq [claude]
     end
   end
 end
