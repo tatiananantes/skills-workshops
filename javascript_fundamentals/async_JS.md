@@ -124,6 +124,8 @@ setTimeout(callback, 2000)
   * having a callback that returns a value
   * having a callback that changes global state
 
+[Here's a tool](http://latentflip.com/loupe) that help visualise the event loop.
+
 **Bonus** - validate your understanding with a peer or coach.
 
 <!-- BEGIN GENERATED SECTION DO NOT EDIT -->
